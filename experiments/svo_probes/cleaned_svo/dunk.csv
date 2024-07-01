@@ -1,0 +1,23 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,player,dunks,basketball,dunk,player basketball,3
+1,player,dunks,basketball,dunk,player basketball,3
+2,player,dunks,basketball,dunk,player basketball,3
+3,player,dunks,ball,dunk,player ball,2
+4,player,dunks,ball,dunk,player ball,2
+5,participants,dunking,teeth,dunk,participants teeth,1
+6,athlete,dunk,basketball,dunk,athlete basketball,1
+7,narrator,dunk,piece,dunk,narrator piece,1
+8,soldiers,dunked,poet,dunk,soldiers poet,1
+9,contestants,dunk,buns,dunk,contestants buns,1
+10,stool,dunked,victim,dunk,stool victim,1
+11,lions,dunked,boy,dunk,lions boy,1
+12,players,dunked,sticks,dunk,players sticks,1
+13,slam,dunked,charts,dunk,slam charts,1
+14,breakaway,dunk,turnover,dunk,breakaway turnover,1
+15,slam,dunking,abilities,dunk,slam abilities,1
+16,players,dunk,ball,dunk,players ball,1
+17,tostadas,dunked,coffee,dunk,tostadas coffee,1
+18,people,dunk,doughnuts,dunk,people doughnuts,1
+19,court,dunked,head,dunk,court head,1
+20,slam,dunk,first,dunk,slam first,1
+21,group,dunked,head,dunk,group head,1

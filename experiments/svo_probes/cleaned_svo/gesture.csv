@@ -1,0 +1,18 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,ape,gestures,stump,gesture,ape stump,2
+1,ape,gestures,stump,gesture,ape stump,2
+2,interaction,gesture,control,gesture,interaction control,1
+3,dancer,gesture,staff,gesture,dancer staff,1
+4,links,gesture,kind,gesture,links kind,1
+5,officers,gestured,shells,gesture,officers shells,1
+6,games,gesture,recognition,gesture,games recognition,1
+7,finger,gesture,finger,gesture,finger finger,1
+8,figures,gesture,planes,gesture,figures planes,1
+9,technology,gesture,recognition,gesture,technology recognition,1
+10,players,gesture,controller,gesture,players controller,1
+11,men,gesture,words,gesture,men words,1
+12,actors,gesturing,names,gesture,actors names,1
+13,people,gesture,relationships,gesture,people relationships,1
+14,book,gesture,development,gesture,book development,1
+15,infants,gesture,combinations,gesture,infants combinations,1
+16,people,gestured,gestures,gesture,people gestures,1

@@ -1,0 +1,9 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,protesters,barbecued,food,barbecue,protesters food,2
+1,protesters,barbecued,food,barbecue,protesters food,2
+2,spicy,barbecued,food,barbecue,spicy food,1
+3,people,barbecued,chicken,barbecue,people chicken,1
+4,dinners,barbecued,meat,barbecue,dinners meat,1
+5,groups,barbecue,frisbees,barbecue,groups frisbees,1
+6,cooking,barbecued,raw,barbecue,cooking raw,1
+7,pupils,barbecued,organs,barbecue,pupils organs,1

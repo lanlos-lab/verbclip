@@ -1,0 +1,9 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,links,cheeses,products,cheese,links products,1
+1,cheese,cheeses,products,cheese,cheese products,1
+2,tenet,cheeses,concerns,cheese,tenet concerns,1
+3,cream,cheeses,version,cheese,cream version,1
+4,links,cheeses,cheeses,cheese,links cheeses,1
+5,whey,cheeses,range,cheese,whey range,1
+6,production,cheese,litres,cheese,production litres,1
+7,latter,cheese,nose,cheese,latter nose,1

@@ -1,0 +1,20 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,horse,strolled,race,stroll,horse race,1
+1,people,stroll,streets,stroll,people streets,1
+2,tourists,stroll,architecture,stroll,tourists architecture,1
+3,people,stroll,exercise,stroll,people exercise,1
+4,cat,strolls,covers,stroll,cat covers,1
+5,knight,strolls,cattle,stroll,knight cattle,1
+6,couples,strolled,beach,stroll,couples beach,1
+7,men,strolled,gate,stroll,men gate,1
+8,people,stroll,sidewalks,stroll,people sidewalks,1
+9,couples,strolled,beers,stroll,couples beers,1
+10,dog,strolling,neighbors,stroll,dog neighbors,1
+11,singers,strolling,streets,stroll,singers streets,1
+12,guest,strolled,grounds,stroll,guest grounds,1
+13,couples,strolling,shadows,stroll,couples shadows,1
+14,rhino,strolls,rhino,stroll,rhino rhino,1
+15,officers,strolled,streets,stroll,officers streets,1
+16,petals,strolling,shores,stroll,petals shores,1
+17,people,stroll,piles,stroll,people piles,1
+18,pedestrians,stroll,pavilions,stroll,pedestrians pavilions,1

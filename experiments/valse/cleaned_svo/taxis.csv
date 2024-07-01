@@ -1,0 +1,5 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,share,taxis,depart,taxis,share depart,1
+1,pilot,taxis,airliner,taxis,pilot airliner,1
+2,grands,taxis,gather,taxis,grands gather,1
+3,selection,taxis,days,taxis,selection days,1

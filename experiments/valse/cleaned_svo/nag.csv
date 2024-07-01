@@ -1,0 +1,6 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,children,nagged,parents,nag,children parents,2
+1,children,nag,parents,nag,children parents,2
+2,mother,nags,husband,nag,mother husband,1
+3,wife,nags,movement,nag,wife movement,1
+4,injuries,nagged,team,nag,injuries team,1

@@ -1,0 +1,5 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,game,napped,cloth,nap,game cloth,1
+1,people,napped,flints,nap,people flints,1
+2,both,napped,feet,nap,both feet,1
+3,students,napped,barrel,nap,students barrel,1

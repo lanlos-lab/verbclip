@@ -1,0 +1,8 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,all,drizzled,word,drizzle,all word,1
+1,traingrind,drizzled,dystopia,drizzle,traingrind dystopia,1
+2,snow,drizzled,much,drizzle,snow much,1
+3,conditions,drizzle,suburbs,drizzle,conditions suburbs,1
+4,revelers,drizzled,preparation,drizzle,revelers preparation,1
+5,nurse,drizzles,water,drizzle,nurse water,1
+6,friends,drizzles,water,drizzle,friends water,1

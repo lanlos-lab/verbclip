@@ -1,0 +1,18 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,pause,ready,searchlights,ready,pause searchlights,2
+1,pause,ready,searchlights,ready,pause searchlights,2
+2,larva,readies,pit,ready,larva pit,1
+3,network,readies,brain,ready,network brain,1
+4,sinkhole,readies,blade,ready,sinkhole blade,1
+5,bear,readies,strike,ready,bear strike,1
+6,ensemble,readies,performances,ready,ensemble performances,1
+7,months,ready,facility,ready,months facility,1
+8,one,readies,shot,ready,one shot,1
+9,crew,readies,ship,ready,crew ship,1
+10,crew,ready,lifeboats,ready,crew lifeboats,1
+11,inventor,readies,spell,ready,inventor spell,1
+12,most,readying,ship,ready,most ship,1
+13,soldier,ready,weapon,ready,soldier weapon,1
+14,action,readies,pistol,ready,action pistol,1
+15,ship,readies,solemnity,ready,ship solemnity,1
+16,forces,readying,assault,ready,forces assault,1

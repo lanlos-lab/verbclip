@@ -1,0 +1,11 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,lion,pounced,donkey,pounce,lion donkey,2
+1,lion,pounced,donkey,pounce,lion donkey,2
+2,griffins,pounce,allies,pounce,griffins allies,1
+3,media,pounced,memories,pounce,media memories,1
+4,females,pounce,bumblebees,pounce,females bumblebees,1
+5,males,pounce,contact,pounce,males contact,1
+6,cat,pounces,rat,pounce,cat rat,1
+7,mob,pounced,skelter,pounce,mob skelter,1
+8,painters,pounce,artwork,pounce,painters artwork,1
+9,bird,pounced,fish,pounce,bird fish,1

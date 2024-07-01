@@ -1,0 +1,14 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,transmissions,microwave,technology,microwave,transmissions technology,1
+1,diffuse,microwave,radiation,microwave,diffuse radiation,1
+2,electrons,microwave,heating,microwave,electrons heating,1
+3,synthesis,microwave,irradiation,microwave,synthesis irradiation,1
+4,signal,microwave,medium,microwave,signal medium,1
+5,experiments,microwave,emission,microwave,experiments emission,1
+6,people,microwave,bowl,microwave,people bowl,1
+7,searches,microwave,cavity,microwave,searches cavity,1
+8,listeners,microwaved,objects,microwave,listeners objects,1
+9,child,microwave,cat,microwave,child cat,1
+10,effort,microwave,distribution,microwave,effort distribution,1
+11,route,microwave,routes,microwave,route routes,1
+12,experiments,microwave,relays,microwave,experiments relays,1

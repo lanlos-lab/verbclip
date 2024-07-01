@@ -1,0 +1,7 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,female,nuzzle,region,nuzzle,female region,1
+1,mouth,nuzzling,greeting,nuzzle,mouth greeting,1
+2,jackrabbit,nuzzles,body,nuzzle,jackrabbit body,1
+3,dogs,nuzzled,stranger,nuzzle,dogs stranger,1
+4,male,nuzzles,vent,nuzzle,male vent,1
+5,male,nuzzles,fur,nuzzle,male fur,1

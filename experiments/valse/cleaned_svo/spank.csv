@@ -1,0 +1,16 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,parents,spank,children,spank,parents children,2
+1,men,spank,women,spank,men women,2
+2,parents,spank,children,spank,parents children,2
+3,men,spank,women,spank,men women,2
+4,teacher,spanked,buttocks,spank,teacher buttocks,1
+5,name,spank,skirt,spank,name skirt,1
+6,adults,spank,boys,spank,adults boys,1
+7,owner,spanked,man,spank,owner man,1
+8,teacher,spanks,child,spank,teacher child,1
+9,husband,spank,grandson,spank,husband grandson,1
+10,one,spanking,child,spank,one child,1
+11,flag,spanks,pigeon,spank,flag pigeon,1
+12,father,spanked,children,spank,father children,1
+13,goat,spanks,pig,spank,goat pig,1
+14,children,spank,parents,spank,children parents,1

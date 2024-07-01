@@ -1,0 +1,780 @@
+,image_id,pos_caption,neg_caption,subject,pos_verb,object,neg_verb
+0,exercising_255.jpg,A man exercises his torso.,A man lifts his torso.,man,exercises,torso,lifts
+1,turning_172.jpg,A male child turns his head.,A male child lifts his head.,male,turns,head,lifts
+2,preaching_116.jpg,A preacher preaches to the onlooker.,A preacher speaks to the onlooker.,preacher,preaches,onlooker,speaks
+3,displaying_251.jpg,A man displays a certificate.,A man carries a certificate.,man,displays,certificate,carries
+4,unveiling_139.jpg,The people unveil the prize.,The people offer the prize.,people,unveil,prize,offer
+5,unveiling_74.jpg,A man unveils a statue.,A man carves a statue.,man,unveils,statue,carves
+6,sucking_143.jpg,A woman sucks on a candy cane.,A woman sits on a candy cane.,woman,sucks,cane,sits
+7,clapping_56.jpg,A toddler claps out a hand.,A toddler stretches out a hand.,toddler,claps,hand,stretches
+8,parachuting_100.jpg,The people parachute into the parachute.,The people climb into the parachute.,people,parachute,parachute,climb
+9,reading_114.jpg,A girl reads a book.,A girl writes a book.,girl,reads,book,writes
+10,teaching_68.jpg,A teacher teaches a student.,A teacher helps a student.,teacher,teaches,student,helps
+11,peeing_5.jpg,A dog pees on a fireplug.,A dog sits on a fireplug.,dog,pees,fireplug,sits
+12,arching_231.jpg,A man arches his back.,A man turns his back.,man,arches,back,turns
+13,rehabilitating_199.jpg,A woman rehabilitates a person.,A woman helps a person.,woman,rehabilitates,person,helps
+14,packaging_199.jpg,The people package the food.,The people eat the food.,people,package,food,eat
+15,paying_50.jpg,A person pays another person.,A person helps another person.,person,pays,person,helps
+16,nuzzling_181.jpg,A horse nuzzles a horse.,A horse rides a horse.,horse,nuzzles,horse,rides
+17,counting_103.jpg,A person counts money.,A person pays money.,person,counts,money,pays
+18,wringing_140.jpg,A person wrings out a towel.,A person pulls out a towel.,person,wrings,towel,pulls
+19,shopping_132.jpg,A woman shops produce.,A woman sells produce.,woman,shops,produce,sells
+20,socializing_320.jpg,The people socialize with the people.,The people talk with the people.,people,socialize,people,talk
+21,talking_27.jpg,A man talks with a cellular telephone.,A man calls with a cellular telephone.,man,talks,telephone,calls
+22,disembarking_35.jpg,The people disembark from ship.,The people emerge from ship.,people,disembark,ship,emerge
+23,drooling_170.jpg,A baby drools over clothing.,A baby kicks over clothing.,baby,drools,clothing,kicks
+24,lacing_36.jpg,A woman laces up a gym shoe.,A woman pulls up a gym shoe.,woman,laces,shoe,pulls
+25,tackling_110.jpg,A person tackles another person.,A person eats another person.,person,tackles,person,eats
+26,riding_24.jpg,A man rides the raft.,A man boards the raft.,man,rides,raft,boards
+27,boating_46.jpg,A person boats a motorboat.,A person drives a motorboat.,person,boats,motorboat,drives
+28,nuzzling_264.jpg,A wife nuzzles her husband.,A wife serves her husband.,wife,nuzzles,husband,serves
+29,kneading_7.jpg,A woman kneads dough.,A woman bakes dough.,woman,kneads,dough,bakes
+30,disembarking_135.jpg,The people disembark an airplane.,The people board an airplane.,people,disembark,airplane,board
+31,applauding_36.jpg,A guest applauds a speaker.,A guest provides a speaker.,guest,applauds,speaker,provides
+32,inflating_144.jpg,A man inflates his mouth.,A man drops his mouth.,man,inflates,mouth,drops
+33,rowing_259.jpg,The people row in a boat.,The people sit in a boat.,people,row,boat,sit
+34,carving_74.jpg,A person carves wood.,A person burns wood.,person,carves,wood,burns
+35,talking_247.jpg,A man talks to a person.,A man leads to a person.,man,talks,person,leads
+36,reading_10.jpg,A woman reads through a book.,A woman flips through a book.,woman,reads,book,flips
+37,disciplining_110.jpg,A woman disciplines a male child.,A woman teaches a male child.,woman,disciplines,child,teaches
+38,complaining_6.jpg,A woman complains to a cockroach.,A woman speaks to a cockroach.,woman,complains,cockroach,speaks
+39,puckering_109.jpg,A woman puckers her lip.,A woman bites her lip.,woman,puckers,lip,bites
+40,encouraging_24.jpg,A young buck encourages a girl.,A young buck chases a girl.,young,encourages,girl,chases
+41,talking_258.jpg,A man talks to a man.,A man calls to a man.,man,talks,man,calls
+42,hurling_20.jpg,A man hurls the ball.,A man chases the ball.,man,hurls,ball,chases
+43,sitting_155.jpg,A dog sits beside a dog.,A dog kneels beside a dog.,dog,sits,dog,kneels
+44,biting_235.jpg,A woman bites her shoe.,A woman examines her shoe.,woman,bites,shoe,examines
+45,heaving_42.jpg,A man heaves a rock.,A man rides a rock.,man,heaves,rock,rides
+46,bothering_202.jpg,A woman bothers the usher.,A woman calls the usher.,woman,bothers,usher,calls
+47,reading_119.jpg,An old man reads through a book.,An old man turns through a book.,old,reads,book,turns
+48,falling_136.jpg,A sprinter falls off a racetrack.,A sprinter pulls off a racetrack.,sprinter,falls,racetrack,pulls
+49,disembarking_34.jpg,The people disembark from a ferry.,The people board a ferry.,people,disembark,ferry,board
+50,admiring_240.jpg,A person admires a woman.,A person calls a woman.,person,admires,woman,calls
+51,smelling_2.jpg,A male child smells the flow.,A male child breaks the flow.,male,smells,flow,breaks
+52,whistling_112.jpg,An old man whistles with a finger.,An old man pokes with a finger.,old,whistles,finger,pokes
+53,grilling_61.jpg,A person grills a chicken.,A person calls a chicken.,person,grills,chicken,calls
+54,encouraging_98.jpg,A child encourages such a child.,A child calls such a child.,child,encourages,child,calls
+55,teaching_34.jpg,A man teaches a woman.,A man chases a woman.,man,teaches,woman,chases
+56,burning_145.jpg,A man burns a card game.,A man calls a card game.,man,burns,game,calls
+57,flexing_38.jpg,A man flexes his biceps.,A man rubs his biceps.,man,flexes,biceps,rubs
+58,unveiling_98.jpg,A woman unveils the brass.,A woman bites the brass.,woman,unveils,brass,bites
+59,nipping_115.jpg,A horse nips a horse.,A horse drives a horse.,horse,nips,horse,drives
+60,sniffing_185.jpg,A dog sniffs the ground.,A dog bites the ground.,dog,sniffs,ground,bites
+61,slipping_77.jpg,A woman slips into the ground.,A woman presses into the ground.,woman,slips,ground,presses
+62,wrinkling_117.jpg,A woman wrinkles her face.,A woman turns her face.,woman,wrinkles,face,turns
+63,disembarking_110.jpg,The people disembark a raft.,The people assemble a raft.,people,disembark,raft,assemble
+64,unveiling_154.jpg,The people unveil a painting.,The people paint a painting.,people,unveil,painting,paint
+65,encouraging_19.jpg,A parent encourages such a girl.,A parent teaches such a girl.,parent,encourages,girl,teaches
+66,scolding_172.jpg,A parent scolds a child.,A parent teaches a child.,parent,scolds,child,teaches
+67,lacing_64.jpg,A man laces up his shoe.,A man kicks up his shoe.,man,laces,shoe,kicks
+68,encouraging_117.jpg,A woman encourages a female child.,A woman teaches a female child.,woman,encourages,child,teaches
+69,heaving_86.jpg,A man heaves a dumbbell.,A man swings a dumbbell.,man,heaves,dumbbell,swings
+70,flexing_148.jpg,A man flexes his torso.,A man stretches his torso.,man,flexes,torso,stretches
+71,working_152.jpg,A man works the table.,A man circles the table.,man,works,table,circles
+72,confronting_51.jpg,A goat confronts a goat.,A goat bites a goat.,goat,confronts,goat,bites
+73,encouraging_131.jpg,A man encourages a child.,A man chases a child.,man,encourages,child,chases
+74,speaking_41.jpg,A woman speaks in person.,A woman works in person.,woman,speaks,person,works
+75,gambling_253.jpg,A man gambles on a chip.,A man chews on a chip.,man,gambles,chip,chews
+76,paying_168.jpg,A man pays a cashier.,A man turns a cashier.,man,pays,cashier,turns
+77,flipping_208.jpg,The people flip a boat.,The people board a boat.,people,flip,boat,board
+78,hunching_21.jpg,A man hunches over his chess set.,A man knocks over his chess set.,man,hunches,set,knocks
+79,sucking_58.jpg,A butterfly sucks on a flower.,A butterfly sits on a flower.,butterfly,sucks,flower,sits
+80,socializing_108.jpg,A dog socializes with a dog.,A dog interviews with a dog.,dog,socializes,dog,interviews
+81,teaching_41.jpg,A woman teaches a child.,A woman leads a child.,woman,teaches,child,leads
+82,turning_102.jpg,A soccer player turns his head.,A soccer player ducks his head.,soccer,turns,head,ducks
+83,pressing_82.jpg,A man presses the plunger.,A man punches the plunger.,man,presses,plunger,punches
+84,shelling_55.jpg,A chef shells up an oyster.,A chef lights up an oyster.,chef,shells,oyster,lights
+85,twisting_143.jpg,A woman twists her torso.,A woman stretches her torso.,woman,twists,torso,stretches
+86,training_27.jpg,A teacher trains the class.,A teacher leads the class.,teacher,trains,class,leads
+87,commuting_47.jpg,The people commute by bicycle.,The people communicate by bicycle.,people,commute,bicycle,communicate
+88,begging_156.jpg,A beaver begs a woman.,A beaver chases a woman.,beaver,begs,woman,chases
+89,spanking_55.jpg,A woman spanks her daughter.,A woman embraces her daughter.,woman,spanks,daughter,embraces
+90,kneading_231.jpg,A man kneads dough.,A man bakes dough.,man,kneads,dough,bakes
+91,nipping_206.jpg,A puppy nips a finger.,A puppy licks a finger.,puppy,nips,finger,licks
+92,boating_16.jpg,A person boats a boat.,A person drives a boat.,person,boats,boat,drives
+93,encouraging_174.jpg,A woman encourages a male child.,A woman teaches a male child.,woman,encourages,child,teaches
+94,tugging_328.jpg,A dog tugs a rope.,A dog throws a rope.,dog,tugs,rope,throws
+95,chiseling_6.jpg,A man chisels a rock.,A man butts a rock.,man,chisels,rock,butts
+96,scolding_110.jpg,A father scolds a male child.,A father teaches a male child.,father,scolds,child,teaches
+97,restraining_144.jpg,A person restrains another person.,A person destroys another person.,person,restrains,person,destroys
+98,butting_237.jpg,A man butts a woman.,A man chases a woman.,man,butts,woman,chases
+99,disembarking_6.jpg,The people disembark from the airplane.,The people emerge from the airplane.,people,disembark,airplane,emerge
+100,working_14.jpg,A person works with art.,A person confronts with art.,person,works,art,emerge
+101,tugging_29.jpg,A person tugs a power cord.,A person opers a power cord.,person,tugs,cord,opers
+102,tackling_130.jpg,A football player tackles a running back.,A football player throws a running back.,football,tackles,back,throws
+103,wrinkling_31.jpg,A girl wrinkles her nose.,A girl twists her nose.,girl,wrinkles,nose,twists
+104,arching_3.jpg,A cat arches over the spinal column.,A cat leaps over the spinal column.,cat,arches,column,leaps
+105,calling_227.jpg,A man calls for a land line.,A man works for a land line.,man,calls,line,works
+106,hunching_176.jpg,A man hunches on a golf club.,A man swings on a golf club.,man,hunches,club,chases
+107,kicking_168.jpg,A man kicks a soccer ball.,A man chases a soccer ball.,man,kicks,ball,chases
+108,ailing_51.jpg,A man ails her arm.,A man punches her arm.,man,ails,arm,punches
+109,encouraging_181.jpg,A man encourages a woman.,A man chases a woman.,man,encourages,woman,chases
+110,giggling_187.jpg,A woman giggles with a man.,A woman sits with a man.,woman,giggles,man,sits
+111,asking_51.jpg,A young buck asks for a girl.,A young buck falls for a girl.,young,asks,girl,falls
+112,commuting_35.jpg,The people commute by train.,The people board by train.,people,commute,train,board
+113,reading_206.jpg,A middle-aged man reads a book.,A middle-aged man examines a book.,middle-aged,reads,book,examines
+114,shelving_223.jpg,A man shelves a bottle.,A man pushes a bottle.,man,shelves,bottle,pushes
+115,wrinkling_12.jpg,A male child wrinkles his brow.,A male child arches his brow.,male,wrinkles,brow,arches
+116,typing_200.jpg,A person types with a keyboard.,A person works with a keyboard.,person,types,keyboard,works
+117,foraging_177.jpg,A couple forages for a plant.,A couple falls for a plant.,couple,forages,plant,falls
+118,paying_206.jpg,A customer pays a cashier.,A customer drives a cashier.,customer,pays,cashier,drives
+119,foraging_17.jpg,A man forages for a flower.,A man asks for a flower.,man,forages,flower,asks
+120,sitting_183.jpg,A man sits on a roof.,A man lands on a roof.,man,sits,roof,lands
+121,ducking_52.jpg,A man ducks for a punch.,A man asks for a punch.,man,ducks,punch,asks
+122,working_223.jpg,A farmer works on picking.,A farmer sits on picking.,farmer,works,picking,sits
+123,typing_116.jpg,A woman types with a keyboard.,A woman sits with a keyboard.,woman,types,keyboard,sits
+124,tackling_9.jpg,A football player tackles all the opposition.,A football player reads all the opposition.,football,tackles,opposition,reads
+125,waving_199.jpg,The people wave a flag.,The people ask a flag.,people,wave,flag,ask
+126,tilling_2.jpg,A man tills up a cultivator.,A man kicks up a cultivator.,man,tills,cultivator,kicks
+127,drooling_37.jpg,A baby drools on a bib.,A baby sits on a bib.,baby,drools,bib,sits
+128,sowing_0.jpg,A farmer sows his hand.,A farmer waves his hand.,farmer,sows,hand,waves
+129,admiring_372.jpg,A woman admires a baby.,A woman kicks a baby.,woman,admires,baby,kicks
+130,carving_5.jpg,A man carves from limestone.,A man emerges from limestone.,man,carves,limestone,emerges
+131,calling_134.jpg,A woman calls for a land line.,A woman works for a land line.,woman,calls,line,works
+132,wrinkling_25.jpg,A male child wrinkles his nose.,A male child pushes his nose.,male,wrinkles,nose,pushes
+133,pedaling_42.jpg,A rider pedals a bicycle.,A rider drives a bicycle.,rider,pedals,bicycle,drives
+134,wringing_111.jpg,A woman wrings out a swab.,A woman whips out a swab.,woman,wrings,swab,whips
+135,wagging_64.jpg,A dog wags a tail.,A dog displays a tail.,dog,wags,tail,displays
+136,rehabilitating_94.jpg,A woman rehabilitates her leg.,A woman kicks her leg.,woman,rehabilitates,leg,kicks
+137,nipping_199.jpg,A shark nips a man.,A shark attacks a man.,shark,nips,man,attacks
+138,sowing_154.jpg,A person sows a finger.,A person waves a finger.,person,sows,finger,waves
+139,lacing_178.jpg,A man laces up a gym shoe.,A man buttons up a gym shoe.,man,laces,shoe,buttons
+140,tripping_200.jpg,A woman trips across a floor.,A woman slips across a floor.,woman,trips,floor,slips
+141,reading_59.jpg,A congressman reads Isaiah.,A congressman asks Isaiah.,congressman,reads,isaiah,asks
+142,admiring_152.jpg,A person admires a person.,A person leads a person.,person,admires,person,leads
+143,commuting_49.jpg,The people commute by bus.,The people work by bus.,people,commute,bus,work
+144,encouraging_88.jpg,A woman encourages a young toddler.,A woman chases a young toddler.,woman,encourages,toddler,chases
+145,juggling_30.jpg,A man juggles a bowling pin.,A man swings a bowling pin.,man,juggles,pin,swings
+146,teaching_202.jpg,A woman teaches people.,A woman reads people.,woman,teaches,people,reads
+147,descending_98.jpg,The people descend on foot.,The people work on foot.,people,descend,foot,work
+148,peeing_301.jpg,The people pee on the grass.,The people sit on the grass.,people,pee,grass,sit
+149,examining_246.jpg,A man examines the ground.,A man sniffs the ground.,man,examines,ground,sniffs
+150,sucking_49.jpg,A horse sucks her breast.,A horse licks her breast.,horse,sucks,breast,licks
+151,working_233.jpg,The people work in a garden.,The people sit in a garden.,people,work,garden,sit
+152,reassuring_67.jpg,A mother reassures her daughter.,A mother teaches her daughter.,mother,reassures,daughter,teaches
+153,teaching_238.jpg,A coach teaches a student.,A coach leads a student.,coach,teaches,student,leads
+154,shouting_344.jpg,A man shouts at another man.,A man stares at another man.,man,shouts,man,stares
+155,tilling_285.jpg,A farmer tills a cultivator.,A farmer pays a cultivator.,farmer,tills,cultivator,pays
+156,applauding_173.jpg,A person applauds the President of the United States.,A person counts the President of the United States.,person,applauds,states,counts
+157,biting_302.jpg,A man bites into a branch.,A man carves into a branch.,man,bites,branch,carves
+158,twirling_58.jpg,A woman twirls her hair.,A woman twists her hair.,woman,twirls,hair,twists
+159,camping_239.jpg,The people camp in a tent.,The people sit in a tent.,people,camp,tent,sit
+160,buttoning_129.jpg,A man buttons up a sweater.,A man folds up a sweater.,man,buttons,sweater,folds
+161,wringing_15.jpg,A woman wrings fabric.,A woman sews fabric.,woman,wrings,fabric,sews
+162,gardening_114.jpg,A person gardens a spade.,A person bites a spade.,person,gardens,spade,bites
+163,scolding_80.jpg,A man scolds a man.,A man butts a man.,man,scolds,man,butts
+164,scolding_203.jpg,A woman scolds a male child.,A woman teaches a male child.,woman,scolds,child,teaches
+165,disembarking_87.jpg,A boatman disembarks from the ship.,A boatman emerges from the ship.,boatman,disembarks,ship,emerges
+166,fording_250.jpg,A driver fords a sport utility.,A driver drives a sport utility.,driver,fords,utility,drives
+167,reassuring_118.jpg,A mother reassures her child.,A mother guards her child.,mother,reassures,child,guards
+168,coaching_123.jpg,A coach coaches a team.,A coach leads a team.,coach,coaches,team,leads
+169,sitting_168.jpg,A man sits on a rock.,A man slips on a rock.,man,sits,rock,slips
+170,puckering_119.jpg,A man puckers his lip.,A man bites his lip.,man,puckers,lip,bites
+171,teaching_172.jpg,A woman teaches a female child.,A woman provides a female child.,woman,teaches,child,provides
+172,inserting_326.jpg,A person inserts a toilet.,A person blocks a toilet.,person,inserts,toilet,blocks
+173,browsing_100.jpg,A woman browses my shirt.,A woman buttons my shirt.,woman,browses,shirt,buttons
+174,slipping_35.jpg,A man slips to the ground.,A man leaps to the ground.,man,slips,ground,leaps
+175,ramming_156.jpg,A train rams the car.,A train tows the car.,train,rams,car,tows
+176,lifting_110.jpg,A man lifts weight.,A man measures weight.,man,lifts,weight,measures
+177,nipping_40.jpg,A puppy nips a dog.,A puppy chases a dog.,puppy,nips,dog,chases
+178,dialing_63.jpg,A person dials a telephone.,A person speaks a telephone.,person,dials,telephone,speaks
+179,stretching_291.jpg,A person stretches their neck.,A person checks their neck.,person,stretches,neck,checks
+180,reassuring_119.jpg,A woman reassures her child.,A woman guards her child.,woman,reassures,child,guards
+181,chiseling_221.jpg,A man chisels a statue.,A man chases a statue.,man,chisels,statue,chases
+182,slouching_163.jpg,A woman slouches in a chair.,A woman sits in a chair.,woman,slouches,chair,sits
+183,buttoning_51.jpg,A woman buttons her coat.,A woman folds her coat.,woman,buttons,coat,folds
+184,counting_3.jpg,A homo counts the ballot.,A homo reads the ballot.,homo,counts,ballot,reads
+185,lecturing_116.jpg,A man lectures people.,A man reads people.,man,lectures,people,reads
+186,training_180.jpg,A man trains people.,A man sells people.,man,trains,people,sells
+187,teaching_7.jpg,A coach teaches a boxer.,A coach works a boxer.,coach,teaches,boxer,works
+188,scolding_30.jpg,A girl scolds a male child.,A girl guards a male child.,girl,scolds,child,guards
+189,punting_194.jpg,A football player punts a football.,A football player drives a football.,football,punts,football,drives
+190,scolding_147.jpg,A woman scolds another woman.,A woman chases another woman.,woman,scolds,woman,chases
+191,educating_58.jpg,A man educates a student.,A man butts a student.,man,educates,student,butts
+192,kneading_209.jpg,A person kneads the meat.,A person sells the meat.,person,kneads,meat,sells
+193,folding_204.jpg,A person folds a sheet.,A person reads a sheet.,person,folds,sheet,reads
+194,counting_133.jpg,A person counts a bill.,A person pays a bill.,person,counts,bill,pays
+195,speaking_84.jpg,A baby speaks on a telephone.,A baby sits on a telephone.,baby,speaks,telephone,sits
+196,offering_207.jpg,A man offers me a hand.,A man asks me a hand.,man,offers,hand,asks
+197,pouncing_246.jpg,A lion pounces upon a lion.,A lion sits upon a lion.,lion,pounces,lion,sits
+198,working_173.jpg,A woman works on paper.,A woman types on paper.,woman,works,paper,types
+199,typing_179.jpg,A man types a laptop.,A man reads a laptop.,man,types,laptop,reads
+200,training_257.jpg,A woman trains people.,A woman sells people.,woman,trains,people,sells
+201,reassuring_52.jpg,A soccer player reassures the goalkeeper.,A soccer player works the goalkeeper.,soccer,reassures,goalkeeper,works
+202,aiming_153.jpg,A woman aims a shotgun.,A woman hauls a shotgun.,woman,aims,shotgun,hauls
+203,training_37.jpg,A trainer trains an elephant.,A trainer drives an elephant.,trainer,trains,elephant,drives
+204,skating_27.jpg,A person skates on an ice skate.,A person lands on an ice skate.,person,skates,skate,lands
+205,training_95.jpg,A coach trains with a player.,A coach works with a player.,coach,trains,player,works
+206,bothering_126.jpg,The police bother a young buck.,The police arrests a young buck.,police,bother,buck,arrests
+207,typing_122.jpg,A person types on a keyboard.,A person works on a keyboard.,person,types,keyboard,works
+208,coaching_90.jpg,A woman coaches people.,A woman reads people.,woman,coaches,people,reads
+209,rowing_37.jpg,The people row in a canoe.,The people land in a canoe.,people,row,canoe,land
+210,climbing_191.jpg,A figure climbs the stairs.,A figure descends the stairs.,figure,climbs,stairs,descends
+211,foraging_102.jpg,A man forages a berry.,A man bites a berry.,man,forages,berry,bites
+212,tackling_109.jpg,An athlete tackles the opposition.,An athlete coaches the opposition.,athlete,tackles,opposition,coaches
+213,tugging_54.jpg,A man tugs a bandage.,A man ties a bandage.,man,tugs,bandage,ties
+214,slipping_64.jpg,A man slips into the ground.,A man smashes into the ground.,man,slips,ground,smashes
+215,sniffing_62.jpg,A dog sniffs the grass.,A dog bites the grass.,dog,sniffs,grass,bites
+216,slipping_130.jpg,A tennis player slips into the ground.,A tennis player smashes into the ground.,tennis,slips,ground,smashes
+217,providing_246.jpg,A nurse provides for a patient.,A nurse works for a patient.,nurse,provides,patient,works
+218,ducking_71.jpg,A boxer ducks for a punch.,A boxer aims for a punch.,boxer,ducks,punch,aims
+219,aiming_80.jpg,A person aims a gun.,A person chases a gun.,person,aims,gun,chases
+220,tilling_110.jpg,A farmer tills a tiller.,A farmer drives a tiller.,farmer,tills,tiller,drives
+221,asking_129.jpg,A nurse asks a patient.,A nurse guards a patient.,nurse,asks,patient,guards
+222,wrinkling_59.jpg,A woman wrinkles her brow.,A woman arches her brow.,woman,wrinkles,brow,arches
+223,camouflaging_240.jpg,A hunter camouflages the vegetation.,A hunter hunts the vegetation.,hunter,camouflages,vegetation,hunts
+224,leading_135.jpg,A woman leads the people.,A woman pays the people.,woman,leads,people,pays
+225,reassuring_106.jpg,A man reassures a male child.,A man guards a male child.,man,reassures,child,guards
+226,talking_282.jpg,A woman talks to people.,A woman complains to people.,woman,talks,people,complains
+227,deflecting_190.jpg,A soccer player deflects a soccer ball.,A soccer player aims a soccer ball.,soccer,deflects,ball,aims
+228,nuzzling_4.jpg,A mother nuzzles her baby.,A mother ignores her baby.,mother,nuzzles,baby,ignores
+229,slipping_131.jpg,A soccer player slips to the ground.,A soccer player descends to the ground.,soccer,slips,ground,descends
+230,working_210.jpg,A colleague works on an undertaking.,A colleague counts on an undertaking.,colleague,works,undertaking,counts
+231,punting_35.jpg,A punter punts a football.,A punter aims a football.,punter,punts,football,aims
+232,coaching_59.jpg,A man coaches a man.,A man chases a man.,man,coaches,man,chases
+233,calling_72.jpg,A man calls on a cellular telephone.,A man talks on a cellular telephone.,man,calls,telephone,talks
+234,unveiling_61.jpg,A man unveils the display.,A man adjusts the display.,man,unveils,display,adjusts
+235,speaking_241.jpg,A woman speaks to a female child.,A woman educates to a female child.,woman,speaks,child,educates
+236,kicking_339.jpg,A man kicks a sandbag.,A man swings a sandbag.,man,kicks,sandbag,swings
+237,blocking_273.jpg,A gate blocks the truck.,A gate drives the truck.,gate,blocks,truck,drives
+238,scolding_171.jpg,A parent scolds the lass.,A parent ignores the lass.,parent,scolds,lass,ignores
+239,rehabilitating_7.jpg,A man rehabilitates his leg.,A man stretches his leg.,man,rehabilitates,leg,stretches
+240,shopping_20.jpg,A woman shops for an apple.,A woman asks for an apple.,woman,shops,apple,asks
+241,tripping_3.jpg,A person trips across a rug.,A person stretches across a rug.,person,trips,rug,stretches
+242,drooling_196.jpg,A dog drools on the floor.,A dog lands on the floor.,dog,drools,floor,lands
+243,floating_74.jpg,A woman floats on water.,A woman slips on water.,woman,floats,water,slips
+244,providing_228.jpg,A doctor provides for a woman.,A doctor speaks for a woman.,doctor,provides,woman,speaks
+245,embracing_52.jpg,A girl embraces a young buck.,A girl chases a young buck.,girl,embraces,buck,chases
+246,eating_252.jpg,A koala eats a leaf.,A koala sucks a leaf.,koala,eats,leaf,sucks
+247,educating_7.jpg,A woman educates a male child.,A woman rams a male child.,woman,educates,child,rams
+248,restraining_73.jpg,The people restrain the feline.,The people hunt the feline.,people,restrain,feline,hunt
+249,packaging_50.jpg,A person packages you a chocolate.,A person slips you a chocolate.,person,packages,chocolate,slips
+250,kicking_154.jpg,A soccer player kicks a soccer ball.,A soccer player aims a soccer ball.,soccer,kicks,ball,aims
+251,speaking_142.jpg,A man speaks to a woman.,A man smells to a woman.,man,speaks,woman,smells
+252,emerging_36.jpg,A bee emerges from a compartment.,A bee erupts from a compartment.,bee,emerges,compartment,erupts
+253,confronting_67.jpg,A man confronts the people.,A man speak to the people.,man,confronts,people,speak
+254,typing_77.jpg,A man types on a laptop.,A man chews on a laptop.,man,types,laptop,chews
+255,counting_14.jpg,A young buck counts the cash.,A young buck reads the cash.,young,counts,cash,reads
+256,rowing_188.jpg,A man rows in a canal boat.,A man floats in a canal boat.,man,rows,boat,floats
+257,caressing_51.jpg,A man caresses a man.,A man chases a man.,man,caresses,man,chases
+258,scolding_86.jpg,A man scolds a male child.,A man baptizes a male child.,man,scolds,child,baptizes
+259,lecturing_284.jpg,A woman lectures people.,A woman reads people.,woman,lectures,people,reads
+260,training_104.jpg,A woman trains a child.,A woman sucks a child.,woman,trains,child,sucks
+261,selling_270.jpg,A person sells such a merchandise.,A person displays such a merchandise.,person,sells,merchandise,displays
+262,asking_52.jpg,A policeman asks about the people.,A policeman talks about the people.,policeman,asks,people,talks
+263,preaching_14.jpg,A curate preaches people.,A curate reads people.,curate,preaches,people,reads
+264,typing_180.jpg,A man types with a keyboard.,A man talks with a keyboard.,man,types,keyboard,talks
+265,floating_84.jpg,A man floats on water.,A man stumbles on water.,man,floats,water,stumbles
+266,arranging_287.jpg,A woman arranges for a flower.,A woman asks for a flower.,woman,arranges,flower,asks
+267,hunching_235.jpg,A businessman hunches over a laptop.,A businessman stumbles over a laptop.,businessman,hunches,laptop,stumbles
+268,poking_16.jpg,A woman pokes at the fire.,A woman stares at the fire.,woman,pokes,fire,stares
+269,driving_79.jpg,A person drives a car.,A person boards a car.,person,drives,car,boards
+270,lecturing_177.jpg,A professor lectures people.,A professor reads people.,professor,lectures,people,reads
+271,spearing_196.jpg,A male child spears the fish.,A male child bites the fish.,male,spears,fish,bites
+272,coaching_94.jpg,A man coaches people.,A man talks people.,man,coaches,people,talks
+273,braiding_184.jpg,A woman braids her hair.,A woman swings her hair.,woman,braids,hair,swings
+274,sewing_61.jpg,A person sews the burlap.,A person burns the burlap.,person,sews,burlap,burns
+275,speaking_39.jpg,A man speaks to an audience.,A man preaches to an audience.,man,speaks,audience,preaches
+276,biting_46.jpg,A child bites my hand.,A child tugs my hand.,child,bites,hand,tugs
+277,massaging_71.jpg,A massager massages a woman.,A massager smells a woman.,massager,massages,woman,smells
+278,slouching_69.jpg,A man slouches in a chair.,A man types in a chair.,man,slouches,chair,types
+279,aiming_181.jpg,A soldier aims a sniper rifle.,A soldier pilots a sniper rifle.,soldier,aims,rifle,pilots
+280,pressing_307.jpg,A person presses in a picture.,A person floats in a picture.,person,presses,picture,floats
+281,chiseling_195.jpg,A man chisels a metallic element.,A man burns a metallic element.,man,chisels,element,burns
+282,lifting_176.jpg,A man lifts a hammer.,A man fetches a hammer.,man,lifts,hammer,fetches
+283,kicking_269.jpg,A male kicks a football.,A male tackles a football.,male,kicks,football,tackles
+284,pressing_292.jpg,A man presses the interface.,A man confronts the interface.,man,presses,interface,confronts
+285,talking_281.jpg,A woman talks to a woman.,A woman clings to a woman.,woman,talks,woman,clings
+286,competing_9.jpg,A runner competes in a race.,A runner aims in a race.,runner,competes,race,aims
+287,floating_242.jpg,A woman floats on the body of water.,A woman lands on the body of water.,woman,floats,water,lands
+288,asking_61.jpg,A teacher asks for a student.,A teacher speaks for a student.,teacher,asks,student,speaks
+289,twisting_101.jpg,A man twists his beard.,A man tugs his beard.,man,twists,beard,tugs
+290,gardening_110.jpg,A male child gardens a trowel.,A male child burns a trowel.,male,gardens,trowel,burns
+291,buttoning_155.jpg,A man buttons up a dress shirt.,A man tugs up a dress shirt.,man,buttons,shirt,tugs
+292,driving_87.jpg,A person drives a boat.,A person boards a boat.,person,drives,boat,boards
+293,packaging_65.jpg,A person packages food.,A person cooks food.,person,packages,food,cooks
+294,puckering_200.jpg,A statue puckers its lip.,A statue bites its lip.,statue,puckers,lip,bites
+295,handcuffing_85.jpg,A person handcuffs a man.,A person hunts a man.,person,handcuffs,man,hunts
+296,handcuffing_61.jpg,A man handcuffs a person.,A man counts a person.,man,handcuffs,person,counts
+297,lecturing_44.jpg,A professor lectures as a student.,A professor counts as a student.,professor,lectures,student,counts
+298,molding_115.jpg,A man molds the plastic.,A man releases the plastic.,man,molds,plastic,releases
+299,aiming_248.jpg,A man aims a submachine gun.,A man hunts a submachine gun.,man,aims,gun,hunts
+300,circling_162.jpg,A shark circles the fish.,A shark bites the fish.,shark,circles,fish,bites
+301,shouting_299.jpg,A woman shouts after a man.,A woman hunts after a man.,woman,shouts,man,hunts
+302,reassuring_32.jpg,A man reassures a woman.,A man admires a woman.,man,reassures,woman,admires
+303,peeing_76.jpg,A man pees on the wall.,A man types on the wall.,man,pees,wall,types
+304,emerging_304.jpg,A killer whale emerges from water.,A killer whale launches from water.,killer,emerges,water,launches
+305,milking_193.jpg,A child milks a goat.,A child bites a goat.,child,milks,goat,bites
+306,scolding_104.jpg,A man scolds a woman.,A man admires a woman.,man,scolds,woman,admires
+307,barbecuing_81.jpg,A man barbecues the meat.,A man sniffs the meat.,man,barbecues,meat,sniffs
+308,foraging_45.jpg,A man forages for a plant.,A man begs for a plant.,man,forages,plant,begs
+309,spearing_36.jpg,A man spears the fish.,A man bites the fish.,man,spears,fish,bites
+310,deflecting_131.jpg,A male child deflects a soccer ball.,A male child hurls a soccer ball.,male,deflects,ball,hurls
+311,educating_66.jpg,A woman educates a child.,A woman sucks a child.,woman,educates,child,sucks
+312,asking_49.jpg,A woman asks for a girl.,A woman shops for a girl.,woman,asks,girl,shops
+313,instructing_245.jpg,A woman instructs people.,A woman hunts people.,woman,instructs,people,hunts
+314,miming_123.jpg,A woman mimes singing.,A woman shouts singing.,woman,mimes,singing,shouts
+315,gnawing_65.jpg,A dog gnaws a bone.,A dog sucks a bone.,dog,gnaws,bone,sucks
+316,disembarking_48.jpg,A man disembarks from the bus.,A man emerges from the bus.,man,disembarks,bus,emerges
+317,nuzzling_117.jpg,A foal nuzzles the mare.,A foal sucks the mare.,foal,nuzzles,mare,sucks
+318,instructing_145.jpg,A man instructs people.,A man hunts people.,man,instructs,people,hunts
+319,communicating_178.jpg,A man communicates with the people.,A man hunts with the people.,man,communicates,people,hunts
+320,typing_273.jpg,A person types with a typewriter.,A person talks with a typewriter.,person,types,typewriter,talks
+321,stumbling_12.jpg,A horse stumbles on the soil.,A horse spits on the soil.,horse,stumbles,soil,spits
+322,instructing_127.jpg,A woman instructs a woman.,A woman hunts a woman.,woman,instructs,woman,hunts
+323,attacking_4.jpg,A kitten attacks his foot.,A kitten licks his foot.,kitten,attacks,foot,licks
+324,biting_358.jpg,A woman bites into her bread.,A woman chews into her bread.,woman,bites,bread,chews
+325,rowing_83.jpg,A person rows on a boat.,A person floats on a boat.,person,rows,boat,floats
+326,aiming_13.jpg,A woman aims a gun.,A woman hunts a gun.,woman,aims,gun,hunts
+327,biting_72.jpg,A man bites fish.,A man talks fish.,man,bites,fish,talks
+328,reading_207.jpg,A woman reads from a novel.,A woman emerges from a novel.,woman,reads,novel,emerges
+329,releasing_40.jpg,A person releases a bird.,A person embraces a bird.,person,releases,bird,embraces
+330,shouting_249.jpg,A man shouts after a woman.,A man aims after a woman.,man,shouts,woman,aims
+331,stitching_146.jpg,A woman stitches the scissors.,A woman admires the scissors.,woman,stitches,scissors,admires
+332,winking_13.jpg,A man winks at a woman.,A man glares at a woman.,man,winks,woman,glares
+333,calming_175.jpg,A woman calms her dog.,A woman licks her dog.,woman,calms,dog,licks
+334,aiming_205.jpg,A man aims for a paintball gun.,A man shops for a paintball gun.,man,aims,gun,shops
+335,detaining_24.jpg,A policeman detains the woman.,A policeman arrests the woman.,policeman,detains,woman,arrests
+336,turning_124.jpg,A man turns the knob.,A man tugs the knob.,man,turns,knob,tugs
+337,blocking_89.jpg,A football player blocks a football player.,A football player coaches a football player.,football,blocks,player,coaches
+338,shopping_189.jpg,A woman shops for food.,A woman begs for food.,woman,shops,food,begs
+339,disciplining_112.jpg,A man disciplines a male child.,A man baptizes a male child.,man,disciplines,child,baptizes
+340,peeing_0.jpg,A dog pees at a table.,A dog sniffs at a table.,dog,pees,table,sniffs
+341,typing_43.jpg,A man types on a keyboard.,A man talks on a keyboard.,man,types,keyboard,talks
+342,imitating_145.jpg,A child imitates such a woman.,A child embraces such a woman.,child,imitates,woman,embraces
+343,tugging_303.jpg,A child tugs a rope.,A child skips a rope.,child,tugs,rope,skips
+344,pressing_154.jpg,A person presses an application.,A person types an application.,person,presses,application,types
+345,biting_223.jpg,A person bites their fingernail.,A person chews their fingernail.,person,bites,fingernail,chews
+346,emerging_9.jpg,A mosquito emerges from an exoskeleton.,A mosquito sucks from an exoskeleton.,mosquito,emerges,exoskeleton,sucks
+347,commuting_44.jpg,A woman commutes on a bicycle.,A woman emerges on a bicycle.,woman,commutes,bicycle,emerges
+348,measuring_12.jpg,A butcher measures the water.,A butcher blocks the water.,butcher,measures,water,blocks
+349,spearing_149.jpg,A scuba diver spears a shark.,A scuba diver tackles a shark.,scuba,spears,shark,tackles
+350,writing_262.jpg,A teacher writes on a board.,A teacher rows on a board.,teacher,writes,board,rows
+351,phoning_163.jpg,A man phones a telephone.,A man presses a telephone.,man,phones,telephone,presses
+352,calling_168.jpg,A young buck calls a cellular telephone.,A young buck dials a cellular telephone.,young,calls,telephone,dials
+353,admiring_214.jpg,A man admires a woman.,A man ignores a woman.,man,admires,woman,ignores
+354,instructing_148.jpg,A teacher instructs a girl.,A teacher types a girl.,teacher,instructs,girl,types
+355,stretching_270.jpg,A lion stretches its back.,A lion arches its back.,lion,stretches,back,arches
+356,sucking_95.jpg,A man sucks his thumb.,A man chews his thumb.,man,sucks,thumb,chews
+357,tilling_203.jpg,A farmer tills a tractor.,A farmer pilots a tractor.,farmer,tills,tractor,pilots
+358,rowing_230.jpg,A man rows in a boat.,A man floats in a boat.,man,rows,boat,floats
+359,rowing_171.jpg,A man rows on a dinghy.,A man floats on a dinghy.,man,rows,dinghy,floats
+360,plummeting_89.jpg,A man plummets from an airplane.,A man emerges from an airplane.,man,plummets,airplane,emerges
+361,phoning_48.jpg,A male child phones the telephone.,A male child dials the telephone.,male,phones,telephone,dials
+362,biting_232.jpg,A man bites at my ear.,A man shouts at my ear.,man,bites,ear,shouts
+363,sitting_103.jpg,A dog sits on a floor.,A dog spits on a floor.,dog,sits,floor,spits
+364,confronting_163.jpg,The police confront a mob.,The police assembles a mob.,police,confront,mob,assembles
+365,drooling_215.jpg,A dog drools on the ground.,A dog spits on the ground.,dog,drools,ground,spits
+366,training_187.jpg,A businesswoman trains a customer.,A businesswoman confronts a customer.,businesswoman,trains,customer,confronts
+367,smelling_1.jpg,A dog smells the plant.,A dog burns the plant.,dog,smells,plant,burns
+368,interviewing_5.jpg,A man interviews people.,A man ignores people.,man,interviews,people,ignores
+369,training_55.jpg,A teacher trains a ballet dancer.,A teacher encourages a ballet dancer.,teacher,trains,dancer,encourages
+370,emerging_171.jpg,A swimmer emerges from the pond.,A swimmer stumbles from the pond.,swimmer,emerges,pond,stumbles
+371,sniffing_399.jpg,A feline sniffs the flower.,A feline releases the flower.,feline,sniffs,flower,releases
+372,biting_206.jpg,A woman bites into her pipe.,A woman spits into her pipe.,woman,bites,pipe,spits
+373,whipping_99.jpg,A man whips a woman.,A man admires a woman.,man,whips,woman,admires
+374,instructing_56.jpg,A man instructs a male child.,A man baptizes a male child.,man,instructs,child,baptizes
+375,bulldozing_184.jpg,A person bulldozes the soil.,A person tills the soil.,person,bulldozes,soil,tills
+376,biting_177.jpg,A groundhog bites his ear.,A groundhog claws his ear.,groundhog,bites,ear,claws
+377,selling_144.jpg,A man sells his food.,A man sniffs his food.,man,sells,food,sniffs
+378,urinating_72.jpg,A dog urinates under a tree.,A dog slips under a tree.,dog,urinates,tree,slips
+379,packaging_19.jpg,A butcher packages meat.,A butcher shops meat.,butcher,packages,meat,shops
+380,mending_228.jpg,A man mends an air conditioner.,A man burns an air conditioner.,man,mends,conditioner,burns
+381,releasing_58.jpg,A woman releases a bird.,A woman pilots a bird.,woman,releases,bird,pilots
+382,calling_9.jpg,A woman calls a cellular telephone.,A woman dials a cellular telephone.,woman,calls,telephone,dials
+383,ignoring_123.jpg,A woman ignores a man.,A woman admires a man.,woman,ignores,man,admires
+384,skipping_120.jpg,A woman skips a jump rope.,A woman releases a jump rope.,woman,skips,rope,releases
+385,disembarking_122.jpg,A passenger disembarks an airplane.,A passenger boards an airplane.,passenger,disembarks,airplane,boards
+386,training_147.jpg,A man trains a woman.,A man admires a woman.,man,trains,woman,admires
+387,guarding_277.jpg,A dog guards a house.,A dog decors a house.,dog,guards,house,decors
+388,slipping_6.jpg,A man slips to the floor.,A man floats to the floor.,man,slips,floor,floats
+389,camping_18.jpg,A man camps in a tent.,A man hunches in a tent.,man,camps,tent,hunches
+390,peeing_271.jpg,A dog pees over the grass.,A dog stumbles over the grass.,dog,pees,grass,stumbles
+391,licking_285.jpg,A dog licks my neck.,A dog sniffs my neck.,dog,licks,neck,sniffs
+392,tying_222.jpg,A child ties up a rope.,A child trips up a rope.,child,ties,rope,trips
+393,emerging_63.jpg,A killer whale emerges from the body of water.,A killer whale erupts from the body of water.,killer,emerges,water,erupts
+394,hunting_231.jpg,A wolf hunts the deer.,A wolf confronts the deer.,wolf,hunts,deer,confronts
+395,hunting_23.jpg,A cheetah hunts a deer.,A cheetah claws a deer.,cheetah,hunts,deer,claws
+396,wrinkling_186.jpg,An old woman wrinkles her brow.,An old woman ducks her brow.,old,wrinkles,brow,ducks
+397,pressing_289.jpg,A person presses a computer.,A person boards a computer.,person,presses,computer,boards
+398,instructing_82.jpg,A woman instructs a passenger.,A woman boards a passenger.,woman,instructs,passenger,boards
+399,biting_295.jpg,A shark bites like a shark.,A shark shells like a shark.,shark,bites,shark,shells
+400,stretching_176.jpg,A woman stretches her leg.,A woman presses her leg.,woman,stretches,leg,presses
+401,tilling_93.jpg,An old man tills up a cultivator.,An old man burns up a cultivator.,old,tills,cultivator,burns
+402,leading_60.jpg,A man leads the sheep.,A man releases the sheep.,man,leads,sheep,releases
+403,panhandling_89.jpg,A man panhandles people.,A man admires people.,man,panhandles,people,admires
+404,peeing_308.jpg,A man pees over a tree.,A man hunches over a tree.,man,pees,tree,hunches
+405,riding_69.jpg,A man rides the statue.,A man admires the statue.,man,rides,statue,admires
+406,skipping_116.jpg,A woman skips down a jump rope.,A woman slips down a jump rope.,woman,skips,rope,slips
+407,tripping_27.jpg,A man trips across a floor.,A man slips across a floor.,man,trips,floor,slips
+408,bulldozing_91.jpg,A man bulldozes the soil.,A man tills the soil.,man,bulldozes,soil,tills
+409,plummeting_33.jpg,A man plummets from a helicopter.,A man emerges from a helicopter.,man,plummets,helicopter,emerges
+410,peeing_234.jpg,A cat pees over a Kitty Litter.,A cat hunches over a Kitty Litter.,cat,pees,litter,hunches
+411,coaching_198.jpg,A man coaches a male child.,A man baptizes a male child.,man,coaches,child,baptizes
+412,chasing_0.jpg,A buck chases after the deer.,A buck emerges after the deer.,buck,chases,deer,emerges
+413,coaching_157.jpg,An old man coaches people.,An old man bothers people.,old,coaches,people,bothers
+414,leading_101.jpg,A soldier leads a troop.,A soldier trains a troop.,soldier,leads,troop,trains
+415,coaching_215.jpg,A man coaches a woman.,A man admires a woman.,man,coaches,woman,admires
+416,guarding_205.jpg,A watchman guards a parking lot.,A watchman boards a parking lot.,watchman,guards,lot,boards
+417,socializing_85.jpg,A man socializes with another man.,A man communicates with another man.,man,socializes,man,communicates
+418,arresting_195.jpg,A policeman arrests a man.,A policeman confronts a man.,policeman,arrests,man,confronts
+419,biting_198.jpg,A man bites his nail.,A man tugs his nail.,man,bites,nail,tugs
+420,admiring_361.jpg,A male child admires an old man.,A male child confronts an old man.,male,admires,man,confronts
+421,mopping_21.jpg,A woman mops on the floor.,A woman slips on the floor.,woman,mops,floor,slips
+422,phoning_296.jpg,A woman phones a telephone.,A woman dials a telephone.,woman,phones,telephone,dials
+423,peeing_180.jpg,A man pees over a wall.,A man stumbles over a wall.,man,pees,wall,stumbles
+424,urinating_84.jpg,A child urinates under a tree.,A child ducks under a tree.,child,urinates,tree,ducks
+425,displaying_34.jpg,A speaker displays a report.,A speaker releases a report.,speaker,displays,report,releases
+426,imitating_118.jpg,A male child imitates a male child.,A male child trains a male child.,male,imitates,child,trains
+427,guarding_92.jpg,A dog guards a tent.,A dog flaps a tent.,dog,guards,tent,flaps
+428,fording_237.jpg,A motorcyclist fords a trail bike.,A motorcyclist pedals a trail bike.,motorcyclist,fords,bike,pedals
+429,tilling_186.jpg,A person tills up a tractor.,A person trips up a tractor.,person,tills,tractor,trips
+430,slipping_60.jpg,A football player slips onto the football field.,A football player emerges onto the football field.,football,slips,field,emerges
+431,helping_251.jpg,A male child helps a man.,A male child baptizes a man.,male,helps,man,baptizes
+432,plowing_157.jpg,A man plows over a cow.,A man stumbles over a cow.,man,plows,cow,stumbles
+433,confronting_156.jpg,The police confront a criminal.,The police arrests a criminal.,police,confront,criminal,arrests
+434,commuting_124.jpg,A man commutes on a bicycle.,A man emerges on a bicycle.,man,commutes,bicycle,emerges
+435,instructing_203.jpg,A man instructs his people.,A man reassures his people.,man,instructs,people,reassures
+436,typing_29.jpg,A woman types on a keyboard.,A woman presses on a keyboard.,woman,types,keyboard,presses
+437,browsing_235.jpg,A man browses a book.,A man types a book.,man,browses,book,types
+438,disembarking_3.jpg,A soldier disembarks a ship.,A soldier floats a ship.,soldier,disembarks,ship,floats
+439,tripping_207.jpg,A man trips through a manhole.,A man shouts through a manhole.,man,trips,manhole,shouts
+440,baking_62.jpg,A woman bakes me a cake.,A woman slips me a cake.,woman,bakes,cake,slips
+441,training_223.jpg,A businesswoman trains a colleague.,A businesswoman interviews a colleague.,businesswoman,trains,colleague,interviews
+442,working_21.jpg,A woman works at work.,A woman shouts at work.,woman,works,work,shouts
+443,punting_141.jpg,A young buck punts a football.,A young buck tackles a football.,young,punts,football,tackles
+444,complaining_73.jpg,A man complains to a woman.,A man clings to a woman.,man,complains,woman,clings
+445,adjusting_286.jpg,A person adjusts the module.,A person inserts the module.,person,adjusts,module,inserts
+446,leading_98.jpg,A conductor leads a marching band.,A conductor coaches a marching band.,conductor,leads,band,coaches
+447,kneading_128.jpg,A chef kneads the dough.,A chef types the dough.,chef,kneads,dough,types
+448,calling_160.jpg,A man calls on telephone.,A man types on telephone.,man,calls,telephone,types
+449,miming_141.jpg,A mime mimes happiness.,A mime encourages happiness.,mime,mimes,happiness,encourages
+450,phoning_283.jpg,A man phones a cellular telephone.,A man dials a cellular telephone.,man,phones,telephone,dials
+451,instructing_198.jpg,A man instructs a man.,A man confronts a man.,man,instructs,man,confronts
+452,disembarking_100.jpg,A woman disembarks an airplane.,A woman floats an airplane.,woman,disembarks,airplane,floats
+453,frisking_30.jpg,A policeman frisks the work force.,A policeman exercises the work force.,policeman,frisks,force,exercises
+454,packaging_189.jpg,A young buck packages up a broom.,A young buck heaves up a broom.,young,packages,broom,heaves
+455,phoning_93.jpg,A woman phones the telephone.,A woman presses the telephone.,woman,phones,telephone,presses
+456,ducking_68.jpg,A man ducks behind a door.,A man stumbles behind a door.,man,ducks,door,stumbles
+457,tugging_345.jpg,A woman tugs a rope.,A woman skips a rope.,woman,tugs,rope,skips
+458,communicating_288.jpg,A woman communicates with a man.,A woman competes with a man.,woman,communicates,man,competes
+459,working_82.jpg,A man works the building.,A man confronts the building.,man,works,building,confronts
+460,admiring_227.jpg,A woman admires her child.,A woman caresses her child.,woman,admires,child,caresses
+461,skipping_143.jpg,The people skip the rope.,The people trip the rope.,people,skip,rope,trip
+462,shushing_24.jpg,A man shushes people.,A man trains people.,man,shushes,people,trains
+463,detaining_218.jpg,A policeman detains the man.,A policeman arrests the man.,policeman,detains,man,arrests
+464,skating_185.jpg,A hockey player skates on an ice skate.,A hockey player competes on an ice skate.,hockey,skates,skate,competes
+465,flapping_183.jpg,A bird flaps its wing.,A bird flexes its wing.,bird,flaps,wing,flexes
+466,helping_267.jpg,A man helps a man.,A man confronts a man.,man,helps,man,confronts
+467,arresting_220.jpg,The police arrest a male.,The police detains a male.,police,arrest,male,detains
+468,emerging_281.jpg,A man emerges from a swimming pool.,A man stumbles from a swimming pool.,man,emerges,pool,stumbles
+469,burning_192.jpg,A man burns the cruiser.,A man ducks the cruiser.,man,burns,cruiser,ducks
+470,disembarking_37.jpg,A man disembarks an airplane.,A man confronts an airplane.,man,disembarks,airplane,confronts
+471,tilling_207.jpg,A man tills up a tractor.,A man heaves up a tractor.,man,tills,tractor,heaves
+472,hunting_238.jpg,A dog hunts a rabbit.,A dog claws a rabbit.,dog,hunts,rabbit,claws
+473,skipping_115.jpg,A man skips a jump rope.,A man tows a jump rope.,man,skips,rope,tows
+474,confronting_162.jpg,A demonstrator confronts the police.,A demonstrator phones the police.,demonstrator,confronts,police,phones
+475,taxiing_77.jpg,An airplane taxis the water.,An airplane confronts the water.,airplane,taxis,water,confronts
+476,pushing_75.jpg,A woman pushes against a boulder.,A woman stumbles against a boulder.,woman,pushes,boulder,stumbles
+477,calling_82.jpg,A man calls the telephone.,A man presses the telephone.,man,calls,telephone,presses
+478,reassuring_15.jpg,A radiologist reassures a patient.,A radiologist interviews a patient.,radiologist,reassures,patient,interviews
+479,skipping_204.jpg,A woman skips the grass.,A woman braids the grass.,woman,skips,grass,braids
+480,boarding_92.jpg,A soldier boards a ship.,A soldier rows a ship.,soldier,boards,ship,rows
+481,overflowing_231.jpg,A seed overflows from the cup.,A seed recovers from the cup.,seed,overflows,cup,recovers
+482,packaging_141.jpg,A woman packages paperwork.,A woman types paperwork.,woman,packages,paperwork,types
+483,disembarking_84.jpg,A girl disembarks an airplane.,A girl tows an airplane.,girl,disembarks,airplane,tows
+484,arresting_34.jpg,The police arrest a woman.,The police interviews a woman.,police,arrest,woman,interviews
+485,interviewing_240.jpg,A woman interviews a man.,A woman trains a man.,woman,interviews,man,trains
+486,assembling_378.jpg,A man assembles a bicycle.,A man pedals a bicycle.,man,assembles,bicycle,pedals
+487,scolding_54.jpg,A mother scolds her son.,A mother encourages her son.,mother,scolds,son,encourages
+488,aiming_190.jpg,A man aims a bow and arrow.,A man spears a bow and arrow.,man,aims,arrow,spears
+489,interviewing_212.jpg,A woman interviews a woman.,A woman trains a woman.,woman,interviews,woman,trains
+490,carrying_382.jpg,A man carries a backpack.,A man restrains a backpack.,man,carries,backpack,restrains
+491,instructing_122.jpg,A woman instructs a young person.,A woman giggles a young person.,woman,instructs,person,giggles
+492,paying_77.jpg,A man pays for a cashier.,A man shops for a cashier.,man,pays,cashier,shops
+493,mending_70.jpg,A man mends the fabric.,A man tugs the fabric.,man,mends,fabric,tugs
+494,detaining_124.jpg,A watchman detains the man.,A watchman arrests the man.,watchman,detains,man,arrests
+495,licking_128.jpg,A lion licks a cub.,A lion claws a cub.,lion,licks,cub,claws
+496,buttoning_116.jpg,A man buttons up a suit.,A man tugs up a suit.,man,buttons,suit,tugs
+497,tripping_218.jpg,A man trips on his foot.,A man spits on his foot.,man,trips,foot,spits
+498,heaving_13.jpg,A man heaves a tire.,A man flaps a tire.,man,heaves,tire,flaps
+499,plowing_290.jpg,A man plows a horse.,A man trains a horse.,man,plows,horse,trains
+500,admiring_314.jpg,A girl admires her baby.,A girl reassures her baby.,girl,admires,baby,reassures
+501,landing_82.jpg,A helicopter lands on the ground.,A helicopter flaps on the ground.,helicopter,lands,ground,flaps
+502,drooling_81.jpg,A dog drools on the grass.,A dog stumbles on the grass.,dog,drools,grass,stumbles
+503,talking_77.jpg,A woman talks to a man.,A woman clings to a man.,woman,talks,man,clings
+504,complaining_57.jpg,A woman complains to another woman.,A woman clings to another woman.,woman,complains,woman,clings
+505,embracing_223.jpg,A woman embraces her daughter.,A woman reassures her daughter.,woman,embraces,daughter,reassures
+506,interrogating_177.jpg,A man interrogates a woman.,A man trains a woman.,man,interrogates,woman,trains
+507,pushing_326.jpg,A man pushes a jeep.,A man tows a jeep.,man,pushes,jeep,tows
+508,arresting_101.jpg,The police arrest a demonstrator.,The police interviews a demonstrator.,police,arrest,demonstrator,interviews
+509,phoning_13.jpg,A woman phones a cellular telephone.,A woman aims a cellular telephone.,woman,phones,telephone,aims
+510,ignoring_131.jpg,A woman ignores a female child.,A woman trains a female child.,woman,ignores,child,trains
+511,reading_51.jpg,A woman reads from a textbook.,A woman lecturs from a textbook.,woman,reads,textbook,lecturs
+512,unveiling_59.jpg,A man unveils the award.,A man tackles the award.,man,unveils,award,tackles
+513,asking_201.jpg,A man asks for a woman.,A man competes for a woman.,man,asks,woman,competes
+514,assembling_147.jpg,A soldier assembles a bomb.,A soldier aims a bomb.,soldier,assembles,bomb,aims
+515,biting_394.jpg,A dog bites my hand.,A dog claws my hand.,dog,bites,hand,claws
+516,leading_77.jpg,A man leads a group.,A man trains a group.,man,leads,group,trains
+517,turning_109.jpg,A woman turns on the doorknob.,A woman tugs on the doorknob.,woman,turns,doorknob,tugs
+518,tripping_61.jpg,A man trips on his leg.,A man tugs on his leg.,man,trips,leg,tugs
+519,buttoning_83.jpg,A woman buttons up a bridal gown.,A woman tugs up a bridal gown.,woman,buttons,gown,tugs
+520,bandaging_136.jpg,A teacher bandages a girl.,A teacher educates a girl.,teacher,bandages,girl,educates
+521,embracing_151.jpg,A man embraces a woman.,A man trains a woman.,man,embraces,woman,trains
+522,complaining_158.jpg,A woman complains to a man.,A woman giggles to a man.,woman,complains,man,giggles
+523,training_224.jpg,A businessman trains with a colleague.,A businessman interviews with a colleague.,businessman,trains,colleague,interviews
+524,complaining_169.jpg,A patient complains to a doctor.,A patient instructs to a doctor.,patient,complains,doctor,instructs
+525,skipping_90.jpg,A man skips down a jump rope.,A man trips down a jump rope.,man,skips,rope,trips
+526,deflecting_13.jpg,A man deflects a punch.,A man aims a punch.,man,deflects,punch,aims
+527,complaining_1.jpg,A man complains to a waiter.,A man whistles to a waiter.,man,complains,waiter,whistles
+528,grilling_114.jpg,A person grills up the food.,A person packages up the food.,person,grills,food,packages
+529,complaining_10.jpg,A ballplayer complains to an umpire.,A ballplayer saluts to an umpire.,ballplayer,complains,umpire,saluts
+530,tackling_118.jpg,A soccer player tackles the opposition.,A soccer player coaches the opposition.,soccer,tackles,opposition,coaches
+531,communicating_77.jpg,A man communicates with a woman.,A man gambles with a woman.,man,communicates,woman,gambles
+532,flapping_128.jpg,A duck flaps its wing.,A duck drums its wing.,duck,flaps,wing,drums
+533,dialing_8.jpg,A man dials a telephone.,A man phones a telephone.,man,dials,telephone,phones
+534,rehabilitating_35.jpg,A man rehabilitates his farm.,A man gardens his farm.,man,rehabilitates,farm,gardens
+535,breaking_17.jpg,A person breaks a window.,A person bothers a window.,person,breaks,window,bothers
+536,complaining_165.jpg,A coach complains to a referee.,A coach trains to a referee.,coach,complains,referee,trains
+537,tugging_246.jpg,A man tugs a rope.,A man skips a rope.,man,tugs,rope,skips
+538,plowing_194.jpg,A farmer plows a horse.,A farmer trains a horse.,farmer,plows,horse,trains
+539,stretching_309.jpg,A coyote stretches its mouth.,A coyote wrinkles its mouth.,coyote,stretches,mouth,wrinkles
+540,chasing_233.jpg,An antelope chases a rabbit.,An antelope ducks a rabbit.,antelope,chases,rabbit,ducks
+541,serving_76.jpg,A bartender serves ale.,A bartender brews ale.,bartender,serves,ale,brews
+542,waving_113.jpg,A mascot waves a flag.,A mascot tackles a flag.,mascot,waves,flag,tackles
+543,competing_185.jpg,A girl competes in gymnastics.,A girl skips in gymnastics.,girl,competes,gymnastics,skips
+544,spitting_111.jpg,A man spits his drink.,A man laces his drink.,man,spits,drink,laces
+545,chasing_263.jpg,A man chases after a male child.,A man claws after a male child.,man,chases,child,claws
+546,tripping_125.jpg,A man trips across a wire.,A man claws across a wire.,man,trips,wire,claws
+547,interviewing_225.jpg,A reporter interviews a policeman.,A reporter arrests a policeman.,reporter,interviews,policeman,arrests
+548,working_87.jpg,A man works on a computer.,A man buttons on a computer.,man,works,computer,buttons
+549,coaching_138.jpg,An old man coaches a team.,An old man skips a team.,old,coaches,team,skips
+550,instructing_20.jpg,A teacher instructs a woman.,A teacher tackles a woman.,teacher,instructs,woman,tackles
+551,mopping_130.jpg,A janitor mops the floor.,A janitor tackles the floor.,janitor,mops,floor,tackles
+552,unveiling_72.jpg,A man unveils a painting.,A man arranges a painting.,man,unveils,painting,arranges
+553,sitting_150.jpg,A woman sits in bed.,A woman stumbles in bed.,woman,sits,bed,stumbles
+554,skipping_162.jpg,The people skip the jump rope.,The people trip the jump rope.,people,skip,rope,trip
+555,bulldozing_191.jpg,A bulldozer bulldozes the soil.,A bulldozer tills the soil.,bulldozer,bulldozes,soil,tills
+556,chasing_21.jpg,A man chases after a woman.,A man claws after a woman.,man,chases,woman,claws
+557,pouncing_235.jpg,A dog pounces the dog.,A dog paws the dog.,dog,pounces,dog,paws
+558,distracting_19.jpg,A cellular telephone distracts the woman.,A cellular telephone phones the woman.,cellular,distracts,woman,phones
+559,grilling_84.jpg,A person grills the meat.,A person bakes the meat.,person,grills,meat,bakes
+560,grilling_80.jpg,A man grills the meat.,A man packages the meat.,man,grills,meat,packages
+561,sniffing_3.jpg,A man sniffs cocaine.,A man bakes cocaine.,man,sniffs,cocaine,bakes
+562,stumbling_33.jpg,A horse stumbles on the grass.,A horse skips on the grass.,horse,stumbles,grass,skips
+563,skating_186.jpg,A woman skates on an ice skate.,A woman stumbles on an ice skate.,woman,skates,skate,stumbles
+564,handcuffing_0.jpg,A man handcuffs a woman.,A man baptizes a woman.,man,handcuffs,woman,baptizes
+565,releasing_100.jpg,A man releases a bird.,A man calms a bird.,man,releases,bird,calms
+566,detaining_110.jpg,A soldier detains the man.,A soldier arrests the man.,soldier,detains,man,arrests
+567,admiring_2.jpg,A woman admires such a man.,A woman encourages such a man.,woman,admires,man,encourages
+568,sitting_188.jpg,A woman sits beside the man.,A woman kneels beside the man.,woman,sits,man,kneels
+569,launching_217.jpg,A person launches a rocket.,A person ignites a rocket.,person,launches,rocket,ignites
+570,complaining_136.jpg,A mother complains to a doctor.,A mother instructs to a doctor.,mother,complains,doctor,instructs
+571,dialing_192.jpg,A woman dials a telephone.,A woman phones a telephone.,woman,dials,telephone,phones
+572,scolding_213.jpg,A father scolds his child.,A father encourages his child.,father,scolds,child,encourages
+573,preaching_79.jpg,A preacher preaches people.,A preacher encourages people.,preacher,preaches,people,encourages
+574,stumbling_39.jpg,A ballplayer stumbles onto the ball field.,A ballplayer rows onto the ball field.,ballplayer,stumbles,field,rows
+575,bandaging_18.jpg,A doctor bandages a woman.,A doctor educates a woman.,doctor,bandages,woman,educates
+576,aiming_133.jpg,A man aims for a cellular telephone.,A man stumbles for a cellular telephone.,man,aims,telephone,stumbles
+577,driving_272.jpg,A busman drives the school bus.,A busman trips the school bus.,busman,drives,bus,trips
+578,handcuffing_71.jpg,A woman handcuffs a man.,A woman encourages a man.,woman,handcuffs,man,encourages
+579,distracting_230.jpg,A cellular telephone distracts the man.,A cellular telephone bothers the man.,cellular,distracts,man,bothers
+580,coaching_58.jpg,A man coaches a child.,A man arrests a child.,man,coaches,child,arrests
+581,hunting_274.jpg,A man hunts a bird.,A man calms a bird.,man,hunts,bird,calms
+582,parachuting_19.jpg,A man parachutes from a parachute.,A man recovers from a parachute.,man,parachutes,parachute,recovers
+583,peeing_23.jpg,A man pees the door.,A man trips the door.,man,pees,door,trips
+584,instructing_205.jpg,A man instructs a colleague.,A man bothers a colleague.,man,instructs,colleague,bothers
+585,dropping_247.jpg,A paratrooper drops a parachute.,A paratrooper parachutes a parachute.,paratrooper,drops,parachute,parachutes
+586,interrogating_110.jpg,A soldier interrogates a man.,A soldier arrests a man.,soldier,interrogates,man,arrests
+587,spitting_124.jpg,A man spits out his beverage.,A man heaves out his beverage.,man,spits,beverage,heaves
+588,baking_248.jpg,A female child bakes the dough.,A female child flaps the dough.,female,bakes,dough,flaps
+589,helping_91.jpg,A man helps a female child.,A man arrests a female child.,man,helps,child,arrests
+590,brewing_85.jpg,A man brews his coffee.,A man laces his coffee.,man,brews,coffee,laces
+591,shoveling_247.jpg,A man shovels snow.,A man tills snow.,man,shovels,snow,tills
+592,plowing_158.jpg,A farmer plows over a tractor.,A farmer trips over a tractor.,farmer,plows,tractor,trips
+593,hunting_199.jpg,A hunter hunts a bird.,A hunter claws a bird.,hunter,hunts,bird,claws
+594,sowing_137.jpg,A man sows a bucket.,A man trips a bucket.,man,sows,bucket,trips
+595,cramming_152.jpg,A male child crams up ice cream.,A male child packages up ice cream.,male,crams,cream,packages
+596,sitting_334.jpg,A man sits in a chair.,A man glares in a chair.,man,sits,chair,glares
+597,stumbling_44.jpg,A woman stumbles onto the ground.,A woman parachutes onto the ground.,woman,stumbles,ground,parachutes
+598,chasing_352.jpg,A toddler chases after a cat.,A toddler paws after a cat.,toddler,chases,cat,paws
+599,interrogating_108.jpg,A soldier interrogates a private.,A soldier detains a private.,soldier,interrogates,private,detains
+600,scolding_34.jpg,A mother scolds her daughter.,A mother encourages her daughter.,mother,scolds,daughter,encourages
+601,saluting_231.jpg,A child salutes a soldier.,A child camps a soldier.,child,salutes,soldier,camps
+602,chewing_341.jpg,A dog chews a bone.,A dog tows a bone.,dog,chews,bone,tows
+603,kneeling_101.jpg,A woman kneels behind a mat.,A woman stumbles behind a mat.,woman,kneels,mat,stumbles
+604,kneeling_63.jpg,A woman kneels on the mat.,A woman stumbles on the mat.,woman,kneels,mat,stumbles
+605,baptizing_90.jpg,A priest baptizes a baby.,A priest lecturs a baby.,priest,baptizes,baby,lecturs
+606,fording_155.jpg,A cowboy fords a horse.,A cowboy rows a horse.,cowboy,fords,horse,rows
+607,towing_190.jpg,A truck tows a motorcycle.,A truck taxis a motorcycle.,truck,tows,motorcycle,taxis
+608,deflecting_97.jpg,A combatant deflects the blow.,A combatant disciplines the blow.,combatant,deflects,blow,disciplines
+609,operating_154.jpg,A man operates from a control panel.,A man grimacs from a control panel.,man,operates,panel,grimacs
+610,throwing_229.jpg,A football player throws a football.,A football player rows a football.,football,throws,football,rows
+611,complaining_189.jpg,A man complains to a doctor.,A man kneels to a doctor.,man,complains,doctor,kneels
+612,boarding_114.jpg,A man boards a ship.,A man rows a ship.,man,boards,ship,rows
+613,scolding_45.jpg,A husband scolds his wife.,A husband phones his wife.,husband,scolds,wife,phones
+614,selling_132.jpg,A woman sells her food.,A woman packages her food.,woman,sells,food,packages
+615,communicating_65.jpg,A woman communicates with a woman.,A woman collides with a woman.,woman,communicates,woman,collides
+616,drumming_168.jpg,A man drums a drum.,A man claps a drum.,man,drums,drum,claps
+617,urinating_260.jpg,A baby urinates on a toilet.,A baby kneels on a toilet.,baby,urinates,toilet,kneels
+618,chasing_258.jpg,A hunter chases after a American bison.,A hunter forags after a American bison.,hunter,chases,bison,forags
+619,scolding_38.jpg,A woman scolds the girl.,A woman distracts the girl.,woman,scolds,girl,distracts
+620,frisking_106.jpg,A Transportation Security Administration frisks a man.,A Transportation Security Administration detains a man.,transportation,frisks,man,detains
+621,sniffing_223.jpg,A puppy sniffs the grass.,A puppy tills the grass.,puppy,sniffs,grass,tills
+622,browsing_32.jpg,A man browses the card.,A man unveils the card.,man,browses,card,unveils
+623,descending_171.jpg,A woman descends down the stairs.,A woman skips down the stairs.,woman,descends,stairs,skips
+624,interrogating_46.jpg,A man interrogates a man.,A man rots a man.,man,interrogates,man,rots
+625,falling_216.jpg,A man falls down the stairs.,A man skips down the stairs.,man,falls,stairs,skips
+626,communicating_99.jpg,A man communicates with a child.,A man camps with a child.,man,communicates,child,camps
+627,peeing_216.jpg,A man pees in the toilet.,A man kneels in the toilet.,man,pees,toilet,kneels
+628,complaining_85.jpg,A woman complains to an old woman.,A woman preaches to an old woman.,woman,complains,woman,preaches
+629,instructing_200.jpg,A man instructs a drummer.,A man claps a drummer.,man,instructs,drummer,claps
+630,sitting_217.jpg,A duck sits in a nest.,A duck forags in a nest.,duck,sits,nest,forags
+631,communicating_87.jpg,A man communicates with another man.,A man collides with another man.,man,communicates,man,collides
+632,flapping_29.jpg,A vulture flaps its wing.,A vulture flexes its wing.,vulture,flaps,wing,flexes
+633,landing_39.jpg,An airplane lands in a field.,An airplane taxis in a field.,airplane,lands,field,taxis
+634,milking_226.jpg,A woman milks a cow.,A woman rows a cow.,woman,milks,cow,rows
+635,complaining_31.jpg,An old man complains to a doctor.,An old man instructs to a doctor.,old,complains,doctor,instructs
+636,peeing_108.jpg,A man pees at a toilet.,A man kneels at a toilet.,man,pees,toilet,kneels
+637,browsing_200.jpg,A man browses the apparel.,A man buttons the apparel.,man,browses,apparel,buttons
+638,kneeling_160.jpg,A man kneels on the ground.,A man rots on the ground.,man,kneels,ground,rots
+639,chewing_62.jpg,A man chews a leaf.,A man skips a leaf.,man,chews,leaf,skips
+640,browsing_233.jpg,A woman browses the cheese.,A woman milks the cheese.,woman,browses,cheese,milks
+641,landing_217.jpg,An airplane lands on a lawn.,An airplane taxis on a lawn.,airplane,lands,lawn,spears
+642,hunting_24.jpg,A hunter hunts an antelope.,A hunter spears an antelope.,hunter,hunts,antelope,spears
+643,checking_288.jpg,A man checks the label.,A man tills the label.,man,checks,label,tills
+644,aiming_72.jpg,A man aims for a rifle.,A man kneels for a rifle.,man,aims,rifle,kneels
+645,dialing_86.jpg,A woman dials a cellular telephone.,A woman phones a cellular telephone.,woman,dials,telephone,phones
+646,chiseling_203.jpg,A man chisels the limestone.,A man unveils the limestone.,man,chisels,limestone,unveils
+647,grilling_54.jpg,A man grills a chicken.,A man spears a chicken.,man,grills,chicken,spears
+648,guarding_83.jpg,A policeman guards a statue.,A policeman restrains a statue.,policeman,guards,statue,restrains
+649,pedaling_260.jpg,A woman pedals a bicycle.,A woman rows a bicycle.,woman,pedals,bicycle,rows
+650,hunting_265.jpg,A lion hunts an animal.,A lion spears an animal.,lion,hunts,animal,spears
+651,chasing_128.jpg,A woman chases after a male child.,A woman milks after a male child.,woman,chases,child,milks
+652,nipping_193.jpg,A puppy nips a cage.,A puppy tows a cage.,puppy,nips,cage,tows
+653,sitting_42.jpg,A man sits on a sofa.,A man kneels on a sofa.,man,sits,sofa,kneels
+654,communicating_34.jpg,A woman communicates with another woman.,A woman camps with another woman.,woman,communicates,woman,camps
+655,selling_77.jpg,A woman sells soap.,A woman brews soap.,woman,sells,soap,brews
+656,boarding_146.jpg,A coastguardsman boards a helicopter.,A coastguardsman tows a helicopter.,coastguardsman,boards,helicopter,tows
+657,plowing_35.jpg,A man plows over a tractor.,A man rows over a tractor.,man,plows,tractor,rows
+658,nagging_145.jpg,A woman nags a man.,A woman gardens a man.,woman,nags,man,gardens
+659,apprehending_155.jpg,A policeman apprehends a man.,A policeman restrains a man.,policeman,apprehends,man,restrains
+660,interviewing_202.jpg,A reporter interviews a couple.,A reporter tapes a couple.,reporter,interviews,couple,tapes
+661,baking_181.jpg,A man bakes his bread.,A man packages his bread.,man,bakes,bread,packages
+662,chasing_280.jpg,A dog chases a dog.,A dog boats a dog.,dog,chases,dog,boats
+663,emerging_10.jpg,A woman emerges from the swimming pool.,A woman complains from the swimming pool.,woman,emerges,pool,complains
+664,chewing_84.jpg,A baseball coach chews his tobacco.,A baseball coach coaches his tobacco.,baseball,chews,tobacco,coaches
+665,communicating_69.jpg,A doctor communicates with an old woman.,A doctor skates with an old woman.,doctor,communicates,woman,skates
+666,peeing_115.jpg,A woman pees into a toilet.,A woman kneels into a toilet.,woman,pees,toilet,kneels
+667,driving_80.jpg,A woman drives a tractor.,A woman rows a tractor.,woman,drives,tractor,rows
+668,arresting_150.jpg,A policeman arrests a Santa Claus.,A policeman distracts a Santa Claus.,policeman,arrests,claus,distracts
+669,sucking_98.jpg,A mosquito sucks at my skin.,A mosquito stings at my skin.,mosquito,sucks,skin,stings
+670,sitting_323.jpg,A man sits against a wall.,A man shelves against a wall.,man,sits,wall,shelves
+671,licking_291.jpg,A cow licks its fur.,A cow wrinkles its fur.,cow,licks,fur,wrinkles
+672,confronting_171.jpg,A man confronts a policeman.,A man distracts a policeman.,man,confronts,policeman,distracts
+673,reading_67.jpg,A female reads the label.,A female unveils the label.,female,reads,label,unveils
+674,imitating_139.jpg,A man imitates his father.,A man reassures his father.,man,imitates,father,reassures
+675,working_76.jpg,A man works with a desktop computer.,A man communicates with a desktop computer.,man,works,computer,communicates
+676,leaping_269.jpg,A woman leaps from the ground.,A woman complains from the ground.,woman,leaps,ground,complains
+677,burning_32.jpg,A man burns his rubbish.,A man lecturs his rubbish.,man,burns,rubbish,lecturs
+678,hunting_139.jpg,A hunter hunts a mammoth.,A hunter spears a mammoth.,hunter,hunts,mammoth,spears
+679,interviewing_254.jpg,A reporter interviews a man.,A reporter lecturs a man.,reporter,interviews,man,lecturs
+680,apprehending_92.jpg,A person apprehends a watchman.,A person complains a watchman.,person,apprehends,watchman,complains
+681,stumbling_86.jpg,A horse stumbles onto the grass.,A horse wades onto the grass.,horse,stumbles,grass,wades
+682,shopping_215.jpg,A woman shops at a grocery store.,A woman winks at a grocery store.,woman,shops,store,winks
+683,browsing_49.jpg,A woman browses the apparel.,A woman buttons the apparel.,woman,browses,apparel,buttons
+684,kneeling_213.jpg,A woman kneels on the floor.,A woman rots on the floor.,woman,kneels,floor,rots
+685,arresting_38.jpg,A man arrests a man.,A man reassures a man.,man,arrests,man,reassures
+686,punching_155.jpg,A man punches a punching bag.,A man coaches a punching bag.,man,punches,bag,coaches
+687,frisking_23.jpg,A man frisks a man.,A man reassures a man.,man,frisks,man,reassures
+688,boarding_116.jpg,A man boards an airplane.,A man rows an airplane.,man,boards,airplane,rows
+689,hunting_77.jpg,A hunter hunts a deer.,A hunter camps a deer.,hunter,hunts,deer,camps
+690,distracting_155.jpg,A female child distracts a woman.,A female child coaches a woman.,female,distracts,woman,coaches
+691,peeing_49.jpg,A male child pees a toilet.,A male child stitches a toilet.,male,pees,toilet,stitches
+692,stumbling_141.jpg,A horse stumbles on the racetrack.,A horse camps on the racetrack.,horse,stumbles,racetrack,camps
+693,distracting_75.jpg,A doughnut distracts the man.,A doughnut reassures the man.,doughnut,distracts,man,reassures
+694,kneeling_215.jpg,A man kneels on the floor.,A man complains on the floor.,man,kneels,floor,complains
+695,dialing_52.jpg,A celebrity dials the telephone.,A celebrity lecturs the telephone.,celebrity,dials,telephone,lecturs
+696,kicking_37.jpg,A young buck kicks a football.,A young buck coaches a football.,young,kicks,football,coaches
+697,chasing_343.jpg,A cheetah chases a bird.,A cheetah barbecues a bird.,cheetah,chases,bird,barbecues
+698,interrogating_56.jpg,A detective interrogates a woman.,A detective coaches a woman.,detective,interrogates,woman,coaches
+699,burning_163.jpg,A man burns his guitar.,A man tapes his guitar.,man,burns,guitar,tapes
+700,arresting_121.jpg,A serviceman arrests a woman.,A serviceman instructs a woman.,serviceman,arrests,woman,instructs
+701,lecturing_55.jpg,A businesswoman lectures with a colleague.,A businesswoman communicates with a colleague.,businesswoman,lectures,colleague,communicates
+702,sitting_227.jpg,A child sits at a desk.,A child kneels at a desk.,child,sits,desk,kneels
+703,scolding_20.jpg,A boyfriend scolds his girlfriend.,A boyfriend packages his girlfriend.,boyfriend,scolds,girlfriend,packages
+704,chasing_243.jpg,A lion chases after an antelope.,A lion laces after an antelope.,lion,chases,antelope,laces
+705,colliding_38.jpg,A racer collides with the racer.,A racer communicates with the racer.,racer,collides,racer,communicates
+706,leading_42.jpg,A woman leads a parade.,A woman preaches a parade.,woman,leads,parade,preaches
+707,destroying_64.jpg,A bear destroys a cooler.,A bear inflates a cooler.,bear,destroys,cooler,inflates
+708,training_270.jpg,A man trains with a colleague.,A man communicates with a colleague.,man,trains,colleague,communicates
+709,flapping_18.jpg,An eagle flaps its wing.,An eagle wrinkles its wing.,eagle,flaps,wing,wrinkles
+710,eating_336.jpg,A male child eats a pizza.,A male child packages a pizza.,male,eats,pizza,packages
+711,applauding_279.jpg,A girl applauds the speaker.,A girl distracts the speaker.,girl,applauds,speaker,distracts
+712,stumbling_52.jpg,A man stumbles onto the ground.,A man wades onto the ground.,man,stumbles,ground,wades
+713,driving_42.jpg,A man drives a car.,A man pedals a car.,man,drives,car,pedals
+714,baptizing_73.jpg,A curate baptizes a young buck.,A curate distracts a young buck.,curate,baptizes,buck,distracts
+715,packaging_196.jpg,A man packages food.,A man forags food.,man,packages,food,forags
+716,juggling_131.jpg,A ballplayer juggles a baseball.,A ballplayer disciplines a baseball.,ballplayer,juggles,baseball,disciplines
+717,panhandling_152.jpg,A man panhandles a man.,A man tills a man.,man,panhandles,man,tills
+718,urinating_47.jpg,A dog urinates on the ground.,A dog forags on the ground.,dog,urinates,ground,forags
+719,spitting_176.jpg,A man spits out saliva.,A man shovels out saliva.,man,spits,saliva,shovels
+720,brewing_67.jpg,A man brews his food.,A man forags his food.,man,brews,food,forags
+721,ignoring_97.jpg,A girl ignores the man.,A girl instructs the man.,girl,ignores,man,instructs
+722,towing_204.jpg,A car tows the trailer.,A car fords the trailer.,car,tows,trailer,fords
+723,urinating_251.jpg,A man urinates against a wall.,A man skates against a wall.,man,urinates,wall,skates
+724,frisking_63.jpg,A policeman frisks a man.,A policeman detains a man.,policeman,frisks,man,detains
+725,sitting_197.jpg,A woman sits on a sofa.,A woman camps on a sofa.,woman,sits,sofa,camps
+726,emerging_69.jpg,A wasp emerges from a nest.,A wasp pees from a nest.,wasp,emerges,nest,pees
+727,molding_6.jpg,An artist molds the clay.,An artist instructs the clay.,artist,molds,clay,instructs
+728,knocking_11.jpg,A man knocks the door.,A man instructs the door.,man,knocks,door,instructs
+729,landing_131.jpg,An airplane lands on a runway.,An airplane instructs on a runway.,airplane,lands,runway,instructs
+730,arresting_233.jpg,A policeman arrests an old man.,A policeman subdues an old man.,policeman,arrests,man,subdues
+731,confronting_199.jpg,A policeman confronts a man.,A policeman subdues a man.,policeman,confronts,man,subdues
+732,pawing_209.jpg,A dog paws the ground.,A dog forags the ground.,dog,paws,ground,forags
+733,throwing_326.jpg,A man throws a football.,A man punts a football.,man,throws,football,punts
+734,chasing_291.jpg,A man chases after a man.,A man complains after a man.,man,chases,man,complains
+735,apprehending_195.jpg,A traffic cop apprehends a man.,A traffic cop instructs a man.,traffic,apprehends,man,instructs
+736,releasing_187.jpg,A woman releases a butterfly.,A woman subdues a butterfly.,woman,releases,butterfly,subdues
+737,working_154.jpg,A woman works in sculpture.,A woman instructs in sculpture.,woman,works,sculpture,instructs
+738,licking_225.jpg,A dog licks its nose.,A dog wrinkles its nose.,dog,licks,nose,wrinkles
+739,stumbling_3.jpg,A man stumbles to the floor.,A man subdues to the floor.,man,stumbles,floor,subdues
+740,chasing_48.jpg,A tiger chases a cow.,A tiger subdues a cow.,tiger,chases,cow,subdues
+741,burning_222.jpg,A man burns the debris.,A man unveils the debris.,man,burns,debris,unveils
+742,igniting_258.jpg,A man ignites a cigarette.,A man wrinkles a cigarette.,man,ignites,cigarette,wrinkles
+743,baking_113.jpg,An old man bakes his bread.,An old man wrinkles his bread.,old,bakes,bread,wrinkles
+744,urinating_136.jpg,A dog urinates in the grass.,A dog skates in the grass.,dog,urinates,grass,skates
+745,chiseling_87.jpg,An old woman chisels the limestone.,An old woman unveils the limestone.,old,chisels,limestone,unveils
+746,towing_52.jpg,A truck tows a trailer.,A truck boats a trailer.,truck,tows,trailer,boats
+747,sitting_310.jpg,A Orthodox Jew sits beside a sofa.,A Orthodox Jew massages beside a sofa.,orthodox,sits,sofa,massages
+748,slipping_140.jpg,A man slips down the stairway.,A man complains down the stairway.,man,slips,stairway,complains
+749,tripping_190.jpg,A man trips through a stairwell.,A man complains through a stairwell.,man,trips,stairwell,complains
+750,burning_245.jpg,A person burns the wood.,A person instructs the wood.,person,burns,wood,instructs
+751,smashing_239.jpg,A man smashes a window.,A man instructs a window.,man,smashes,window,instructs
+752,towing_113.jpg,A truck tows a boat.,A truck boats a boat.,truck,tows,boat,boats
+753,erupting_76.jpg,A vent erupts with smoke.,A vent complains with smoke.,vent,erupts,smoke,complains
+754,subduing_50.jpg,A policeman subdues an intruder.,A policeman complains an intruder.,policeman,subdues,intruder,complains
+755,towing_60.jpg,A truck tows a tractor.,A truck fords a tractor.,truck,tows,tractor,fords
+756,pouncing_185.jpg,A cheetah pounces prey.,A cheetah wades prey.,cheetah,pounces,prey,wades
+757,restraining_120.jpg,A policeman restrains a man.,A policeman subdues a man.,policeman,restrains,man,subdues
+758,kneeling_165.jpg,A man kneels behind a mat.,A man complains behind a mat.,man,kneels,mat,complains
+759,stumbling_175.jpg,A man stumbles into the stairs.,A man complains into the stairs.,man,stumbles,stairs,complains
+760,towing_176.jpg,A truck tows a car.,A truck fords a car.,truck,tows,car,fords
+761,hunting_34.jpg,A leopard hunts a crocodile.,A leopard imitates a crocodile.,leopard,hunts,crocodile,imitates
+762,kneeling_250.jpg,A man kneels in the grass.,A man pees in the grass.,man,kneels,grass,pees
+763,videotaping_45.jpg,A man videotapes the fencing.,A man unveils the fencing.,man,videotapes,fencing,unveils
+764,subduing_150.jpg,A policeman subdues a man.,A policeman interrogs a man.,policeman,subdues,man,interrogs
+765,interrogating_167.jpg,An agent interrogates a man.,An agent communicates a man.,agent,interrogates,man,communicates
+766,erupting_123.jpg,A vent erupts lava.,A vent communicates lava.,vent,erupts,lava,communicates
+767,chewing_362.jpg,A woman chews chili.,A woman grills chili.,woman,chews,chili,grills
+768,urinating_182.jpg,A man urinates on a toilet.,A man complains on a toilet.,man,urinates,toilet,complains
+769,imitating_87.jpg,A woman imitates the statue.,A woman unveils the statue.,woman,imitates,statue,unveils
+770,towing_195.jpg,A minivan tows a jet.,A minivan imitates a jet.,minivan,tows,jet,imitates
+771,urinating_195.jpg,A man urinates against a fence.,A man molds against a fence.,man,urinates,fence,molds
+772,driving_85.jpg,A woman drives a car.,A woman pedals a car.,woman,drives,car,pedals
+773,subduing_51.jpg,A paramedic subdues a man.,A paramedic bandages a man.,paramedic,subdues,man,bandages
+774,frisking_162.jpg,A police matron frisks the man.,A police matron bandages the man.,police,frisks,man,bandages
+775,pulling_192.jpg,A truck pulls a boat.,A truck punts a boat.,truck,pulls,boat,punts
+776,stumbling_133.jpg,A girl stumbles into the stairs.,A girl molds into the stairs.,girl,stumbles,stairs,molds
+777,burning_123.jpg,A male burns rubbish.,A male socials rubbish.,male,burns,rubbish,socials
+778,gnawing_178.jpg,A man gnaws meat.,A man grills meat.,man,gnaws,meat,grills

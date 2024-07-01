@@ -1,0 +1,20 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,level,pat,clothing,pat,level clothing,1
+1,narrator,pats,belly,pat,narrator belly,1
+2,member,pats,back,pat,member back,1
+3,friend,pats,artist,pat,friend artist,1
+4,girls,patted,shoulder,pat,girls shoulder,1
+5,man,pats,dog,pat,man dog,1
+6,man,patted,flank,pat,man flank,1
+7,boys,pat,back,pat,boys back,1
+8,demon,patted,child,pat,demon child,1
+9,dancer,patted,body,pat,dancer body,1
+10,guard,patted,shoulder,pat,guard shoulder,1
+11,leader,patted,head,pat,leader head,1
+12,pats,patting,girlfriends,pat,pats girlfriends,1
+13,ashes,patted,loaf,pat,ashes loaf,1
+14,biographer,patted,children,pat,biographer children,1
+15,man,patted,lapel,pat,man lapel,1
+16,visitors,pat,llamas,pat,visitors llamas,1
+17,player,pats,one,pat,player one,1
+18,baby,pats,dog,pat,baby dog,1

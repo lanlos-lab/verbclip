@@ -1,0 +1,9 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,displeased,stare,episode,stare,displeased episode,1
+1,onlookers,stare,one,stare,onlookers one,1
+2,both,stare,history,stare,both history,1
+3,everything,stare,kiss,stare,everything kiss,1
+4,cases,stare,decisis,stare,cases decisis,1
+5,locals,stare,address,stare,locals address,1
+6,none,stare,views,stare,none views,1
+7,scholarship,stare,decisis,stare,scholarship decisis,1

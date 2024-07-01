@@ -1,0 +1,7 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,robot,winked,eye,wink,robot eye,2
+1,robot,winked,eye,wink,robot eye,2
+2,priest,winked,eyes,wink,priest eyes,1
+3,performers,winked,eyes,wink,performers eyes,1
+4,nod,winks,way,wink,nod way,1
+5,rabbit,winks,eye,wink,rabbit eye,1

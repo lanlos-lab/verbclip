@@ -1,0 +1,24 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,all,chiseled,creature,chisel,all creature,2
+1,prisoners,chiseled,concrete,chisel,prisoners concrete,2
+2,prisoners,chiseled,concrete,chisel,prisoners concrete,2
+3,all,chiseled,creature,chisel,all creature,2
+4,player,chisels,space,chisel,player space,1
+5,convicts,chiseled,opening,chisel,convicts opening,1
+6,residents,chisel,references,chisel,residents references,1
+7,work,chiselling,life,chisel,work life,1
+8,scribes,chiseled,rock,chisel,scribes rock,1
+9,gales,chiselled,warmth,chisel,gales warmth,1
+10,rock,chiseled,mark,chisel,rock mark,1
+11,sculptor,chiseled,stone,chisel,sculptor stone,1
+12,pastor,chiselled,inscription,chisel,pastor inscription,1
+13,pastor,chiseled,names,chisel,pastor names,1
+14,emigrants,chiseled,names,chisel,emigrants names,1
+15,letters,chiseled,statue,chisel,letters statue,1
+16,citizens,chiseled,acres,chisel,citizens acres,1
+17,name,chiselled,plaque,chisel,name plaque,1
+18,sound,chiselling,pattern,chisel,sound pattern,1
+19,mob,chiseled,holes,chisel,mob holes,1
+20,vocals,chisel,edge,chisel,vocals edge,1
+21,man,chiseled,word,chisel,man word,1
+22,authorities,chiseled,quotation,chisel,authorities quotation,1

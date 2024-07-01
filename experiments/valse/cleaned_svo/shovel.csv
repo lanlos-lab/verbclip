@@ -1,0 +1,18 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,person,shoveled,snow,shovel,person snow,1
+1,brothers,shovel,tons,shovel,brothers tons,1
+2,advocates,shovel,everything,shovel,advocates everything,1
+3,person,shovels,dirt,shovel,person dirt,1
+4,people,shoveled,driveway,shovel,people driveway,1
+5,snow,shoveling,roof,shovel,snow roof,1
+6,fireman,shoveled,coal,shovel,fireman coal,1
+7,tasks,shoveling,manure,shovel,tasks manure,1
+8,lover,shoveling,driveway,shovel,lover driveway,1
+9,campfire,shoveled,dirt,shovel,campfire dirt,1
+10,mourner,shovelled,spadesful,shovel,mourner spadesful,1
+11,men,shoveled,sand,shovel,men sand,1
+12,business,shoveled,hand,shovel,business hand,1
+13,shovels,shoveled,snow,shovel,shovels snow,1
+14,janitor,shovels,remains,shovel,janitor remains,1
+15,crew,shoveled,trash,shovel,crew trash,1
+16,workers,shoveling,mud,shovel,workers mud,1

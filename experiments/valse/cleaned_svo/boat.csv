@@ -1,0 +1,18 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,swimming,boating,place,boat,swimming place,1
+1,fishing,boating,place,boat,fishing place,1
+2,sailing,boating,people,boat,sailing people,1
+3,school,boating,facilities,boat,school facilities,1
+4,nature,boating,trails,boat,nature trails,1
+5,row,boating,visitors,boat,row visitors,1
+6,bird,boating,opportunities,boat,bird opportunities,1
+7,model,boating,lakes,boat,model lakes,1
+8,waterfall,boats,variety,boat,waterfall variety,1
+9,activities,boating,events,boat,activities events,1
+10,club,boating,sites,boat,club sites,1
+11,museum,boats,collection,boat,museum collection,1
+12,community,boated,hunters,boat,community hunters,1
+13,slips,boats,feet,boat,slips feet,1
+14,public,boated,public,boat,public public,1
+15,torpedo,boats,raid,boat,torpedo raid,1
+16,parents,boated,children,boat,parents children,1

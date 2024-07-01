@@ -1,0 +1,17 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,men,wilt,thou,wilt,men thou,2
+1,flowers,wilting,moments,wilt,flowers moments,2
+2,men,wilt,thou,wilt,men thou,2
+3,flowers,wilting,moments,wilt,flowers moments,2
+4,actions,wilted,patrols,wilt,actions patrols,1
+5,film,wilts,little,wilt,film little,1
+6,plants,wilt,aridity,wilt,plants aridity,1
+7,thou,wilt,none,wilt,thou none,1
+8,plant,wilted,leaves,wilt,plant leaves,1
+9,flower,wilts,afternoon,wilt,flower afternoon,1
+10,adults,wilted,borages,wilt,adults borages,1
+11,leaves,wilt,brown,wilt,leaves brown,1
+12,forces,wilted,attacks,wilt,forces attacks,1
+13,remittance,wilts,ambition,wilt,remittance ambition,1
+14,leaves,wilt,plant,wilt,leaves plant,1
+15,plant,wilts,actions,wilt,plant actions,1

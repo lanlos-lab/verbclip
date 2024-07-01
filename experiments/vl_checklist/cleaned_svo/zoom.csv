@@ -1,0 +1,23 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,camera,zooms,reference,zoom,camera reference,2
+1,camera,zooms,reference,zoom,camera reference,2
+2,album,zoomed,charts,zoom,album charts,1
+3,back,zoomed,space,zoom,back space,1
+4,video,zooms,song,zoom,video song,1
+5,camera,zooms,figure,zoom,camera figure,1
+6,screen,zooms,game,zoom,screen game,1
+7,camera,zooms,time,zoom,camera time,1
+8,presentations,zoom,eye,zoom,presentations eye,1
+9,navigation,zooms,traffic,zoom,navigation traffic,1
+10,film,zooms,realms,zoom,film realms,1
+11,camera,zooms,order,zoom,camera order,1
+12,environments,zoom,appearance,zoom,environments appearance,1
+13,scene,zooms,wearing,zoom,scene wearing,1
+14,camera,zooms,swamp,zoom,camera swamp,1
+15,trailer,zoomed,view,zoom,trailer view,1
+16,freaks,zoom,vampires,zoom,freaks vampires,1
+17,screen,zooms,postcard,zoom,screen postcard,1
+18,plots,zoomed,probabilities,zoom,plots probabilities,1
+19,players,zoom,view,zoom,players view,1
+20,logo,zooms,tunnel,zoom,logo tunnel,1
+21,theorists,zoom,evolution,zoom,theorists evolution,1

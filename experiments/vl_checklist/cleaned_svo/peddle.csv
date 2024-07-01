@@ -1,0 +1,24 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,herd,peddling,rags,peddle,herd rags,2
+1,herd,peddling,rags,peddle,herd rags,2
+2,film,peddled,nothing,peddle,film nothing,1
+3,film,peddles,ideas,peddle,film ideas,1
+4,girl,peddled,medicines,peddle,girl medicines,1
+5,founders,peddled,products,peddle,founders products,1
+6,peers,peddling,chart,peddle,peers chart,1
+7,father,peddled,goods,peddle,father goods,1
+8,soldiers,peddled,alcohol,peddle,soldiers alcohol,1
+9,children,peddling,cigarettes,peddle,children cigarettes,1
+10,people,peddling,beliefs,peddle,people beliefs,1
+11,father,peddled,blankets,peddle,father blankets,1
+12,circles,peddled,notion,peddle,circles notion,1
+13,author,peddles,stereotypes,peddle,author stereotypes,1
+14,man,peddles,something,peddle,man something,1
+15,income,peddling,food,peddle,income food,1
+16,women,peddling,thread,peddle,women thread,1
+17,sons,peddled,refreshments,peddle,sons refreshments,1
+18,elites,peddle,form,peddle,elites form,1
+19,pushers,peddle,wares,peddle,pushers wares,1
+20,father,peddled,medicine,peddle,father medicine,1
+21,women,peddled,goods,peddle,women goods,1
+22,father,peddled,jewellery,peddle,father jewellery,1

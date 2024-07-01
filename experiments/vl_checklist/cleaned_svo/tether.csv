@@ -1,0 +1,18 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,plica,tethers,patella,tether,plica patella,2
+1,plica,tethers,patella,tether,plica patella,2
+2,switches,tethered,groups,tether,switches groups,1
+3,scouts,tethered,horses,tether,scouts horses,1
+4,twins,tether,creatures,tether,twins creatures,1
+5,cable,tethering,balloon,tether,cable balloon,1
+6,plane,tether,plane,tether,plane plane,1
+7,frenum,tethers,tongue,tether,frenum tongue,1
+8,objects,tethers,object,tether,objects object,1
+9,adhesions,tether,omentum,tether,adhesions omentum,1
+10,men,tethered,horses,tether,men horses,1
+11,crew,tethered,bird,tether,crew bird,1
+12,farmers,tether,livestock,tether,farmers livestock,1
+13,rope,tethering,ship,tether,rope ship,1
+14,devil,tethered,horse,tether,devil horse,1
+15,observer,tethers,bird,tether,observer bird,1
+16,king,tethered,horses,tether,king horses,1

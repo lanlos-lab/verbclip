@@ -1,0 +1,18 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,sister,pets,horse,pet,sister horse,2
+1,sister,pets,horse,pet,sister horse,2
+2,visitors,pet,llamas,pet,visitors llamas,1
+3,visitors,pet,species,pet,visitors species,1
+4,policewoman,petting,horse,pet,policewoman horse,1
+5,people,pet,animals,pet,people animals,1
+6,zoo,petting,zoo,pet,zoo zoo,1
+7,witch,pets,daughter,pet,witch daughter,1
+8,individual,pets,cat,pet,individual cat,1
+9,players,pet,rabbit,pet,players rabbit,1
+10,stomach,petted,owner,pet,stomach owner,1
+11,permit,pets,rooms,pet,permit rooms,1
+12,place,pets,status,pet,place status,1
+13,doctor,pets,foal,pet,doctor foal,1
+14,boy,pets,dog,pet,boy dog,1
+15,woman,petted,cat,pet,woman cat,1
+16,all,pets,pet,pet,all pet,1

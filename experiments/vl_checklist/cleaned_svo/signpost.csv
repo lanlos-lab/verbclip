@@ -1,0 +1,10 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,state,signposted,highways,signpost,state highways,2
+1,state,signposted,highways,signpost,state highways,2
+2,style,signposted,decade,signpost,style decade,1
+3,route,signposted,westbound,signpost,route westbound,1
+4,cinematography,signposts,inevitability,signpost,cinematography inevitability,1
+5,play,signposted,strengths,signpost,play strengths,1
+6,project,signposted,plans,signpost,project plans,1
+7,parts,signposted,authorities,signpost,parts authorities,1
+8,declaration,signposted,rights,signpost,declaration rights,1

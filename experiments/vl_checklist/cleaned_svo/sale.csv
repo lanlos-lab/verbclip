@@ -1,0 +1,6 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,sol,sale,medianoche,sale,sol medianoche,2
+1,sol,sale,medianoche,sale,sol medianoche,2
+2,announcement,sale,shares,sale,announcement shares,1
+3,villagers,sale,products,sale,villagers products,1
+4,people,sale,crops,sale,people crops,1

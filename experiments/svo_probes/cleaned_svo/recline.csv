@@ -1,0 +1,20 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,seats,recline,degrees,recline,seats degrees,3
+1,seats,recline,degrees,recline,seats degrees,3
+2,seats,recline,degrees,recline,seats degrees,3
+3,women,reclined,wine,recline,women wine,2
+4,women,reclined,wine,recline,women wine,2
+5,equipment,reclining,seats,recline,equipment seats,1
+6,pains,reclining,chairs,recline,pains chairs,1
+7,aircraft,reclining,chairs,recline,aircraft chairs,1
+8,rider,reclines,supine,recline,rider supine,1
+9,cheek,reclined,clouds,recline,cheek clouds,1
+10,partner,recline,chairs,recline,partner chairs,1
+11,seats,reclined,rests,recline,seats rests,1
+12,quadratum,reclines,degrees,recline,quadratum degrees,1
+13,backs,recline,pitch,recline,backs pitch,1
+14,structure,reclines,degrees,recline,structure degrees,1
+15,patients,reclined,photos,recline,patients photos,1
+16,one,reclined,seat,recline,one seat,1
+17,passenger,reclined,seat,recline,passenger seat,1
+18,angel,reclines,head,recline,angel head,1

@@ -1,0 +1,16 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,garment,buttons,opening,button,garment opening,1
+1,pants,buttoned,shirts,button,pants shirts,1
+2,gaiters,buttoned,side,button,gaiters side,1
+3,sleeves,buttoned,attention,button,sleeves attention,1
+4,grey,buttoned,jerkin,button,grey jerkin,1
+5,coat,buttoned,cigarette,button,coat cigarette,1
+6,actions,buttons,player,button,actions player,1
+7,women,buttoning,blouses,button,women blouses,1
+8,coats,buttoned,men,button,coats men,1
+9,man,buttoned,waistcoat,button,man waistcoat,1
+10,child,button,clothes,button,child clothes,1
+11,students,buttoned,shirts,button,students shirts,1
+12,polo,buttoned,shirt,button,polo shirt,1
+13,magua,buttoned,men,button,magua men,1
+14,members,buttoned,overcoats,button,members overcoats,1

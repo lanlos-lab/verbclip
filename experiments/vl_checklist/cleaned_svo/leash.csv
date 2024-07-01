@@ -1,0 +1,6 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,scenthounds,leash,hounds,leash,scenthounds hounds,2
+1,scenthounds,leash,hounds,leash,scenthounds hounds,2
+2,city,leash,laws,leash,city laws,1
+3,cats,leashed,indoors,leash,cats indoors,1
+4,states,leash,laws,leash,states laws,1

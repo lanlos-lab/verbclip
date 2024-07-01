@@ -1,0 +1,9 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,trucker,tugged,trailers,tug,trucker trailers,1
+1,doctor,tugged,jersey,tug,doctor jersey,1
+2,planet,tugs,star,tug,planet star,1
+3,hands,tugging,brakes,tug,hands brakes,1
+4,wind,tugging,damage,tug,wind damage,1
+5,army,tugged,boat,tug,army boat,1
+6,tugboat,tugged,river,tug,tugboat river,1
+7,child,tugging,robe,tug,child robe,1

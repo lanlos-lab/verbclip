@@ -1,0 +1,18 @@
+,subject_text,verb_text,object_text,verb_lemmatized,subject_object_pair,Frequency
+0,pigs,slung,scene,sling,pigs scene,1
+1,turbojets,slung,turret,sling,turbojets turret,1
+2,politicians,sling,insults,sling,politicians insults,1
+3,sling,slung,hand,sling,sling hand,1
+4,warfare,sling,shots,sling,warfare shots,1
+5,knee,slung,piece,sling,knee piece,1
+6,bond,sling,substance,sling,bond substance,1
+7,sheath,slung,sword,sling,sheath sword,1
+8,carrier,slung,pots,sling,carrier pots,1
+9,ropes,slung,repertoire,sling,ropes repertoire,1
+10,enemy,sling,infantry,sling,enemy infantry,1
+11,guardsmen,slung,coffin,sling,guardsmen coffin,1
+12,peltasts,slung,shields,sling,peltasts shields,1
+13,bombs,slung,pilot,sling,bombs pilot,1
+14,marines,slung,hammocks,sling,marines hammocks,1
+15,vehicle,sling,load,sling,vehicle load,1
+16,crew,slung,sail,sling,crew sail,1
