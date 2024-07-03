@@ -15,7 +15,7 @@ python -m spacy download en_core_web_sm
 ### pre-computed embeddings
 To make the experiments reproducible and efficient, we provide the embeddings used. 
 The embeddings are stored in pickle files, each containing a dictionary where the keys are the strings (either texts or IDs of images) and the values are the embeddings.
-__Matrix embeddings__ are also provided in the same format.
+Matrix embeddings are also provided in the same format.
 Since the files are too large, we have to make them accessible through Google Drive.
 
 The embeddings are organized per experiment. Simply download the embeddings for the experiment you want to run and put them in `experiments/{experiment}/embeddings` (create the directory if it does not exist).
@@ -44,6 +44,10 @@ experiments
 │       │   ...
 │   ...
 ```
+
+### Building matrix embeddings for verbs
+The code for building the matrix representations of the verbs is provided in the Jupyter notebook `build_matrices.ipynb` in the root directory.
+> Note that the matrices are already provided in the downloadable embedding files, so you do not need to run this code unless you want to build the matrices for new verbs.
 
 ### Running the experiments
 To run the experiments, simply run the Jupyter notebook in the `experiments/{experiment}` directory, where `experiment` is one of `valse`, `vl_checklist`, or `svo_probes`.
