@@ -1,0 +1,6 @@
+numpy
+pandas
+torch
+tqdm
+spacy
+clip
